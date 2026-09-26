@@ -571,7 +571,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -639,12 +639,12 @@ TextureImporter:
       name: FrontFlip_0
       rect:
         serializedVersion: 2
-        x: 53
-        y: 918
-        width: 55
-        height: 71
+        x: 0
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -661,12 +661,12 @@ TextureImporter:
       name: FrontFlip_1
       rect:
         serializedVersion: 2
-        x: 180
-        y: 909
-        width: 63
-        height: 84
+        x: 128
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -683,12 +683,12 @@ TextureImporter:
       name: FrontFlip_2
       rect:
         serializedVersion: 2
-        x: 305
-        y: 895
-        width: 54
-        height: 80
+        x: 256
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -705,12 +705,12 @@ TextureImporter:
       name: FrontFlip_3
       rect:
         serializedVersion: 2
-        x: 306
-        y: 951
-        width: 36
-        height: 61
+        x: 384
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -727,12 +727,12 @@ TextureImporter:
       name: FrontFlip_4
       rect:
         serializedVersion: 2
-        x: 431
-        y: 895
-        width: 45
-        height: 87
+        x: 512
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -749,12 +749,12 @@ TextureImporter:
       name: FrontFlip_5
       rect:
         serializedVersion: 2
-        x: 434
-        y: 957
-        width: 28
-        height: 62
+        x: 640
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -771,12 +771,12 @@ TextureImporter:
       name: FrontFlip_6
       rect:
         serializedVersion: 2
-        x: 560
-        y: 895
-        width: 43
-        height: 87
+        x: 768
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -793,12 +793,12 @@ TextureImporter:
       name: FrontFlip_7
       rect:
         serializedVersion: 2
-        x: 562
-        y: 957
-        width: 28
-        height: 63
+        x: 896
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -815,12 +815,12 @@ TextureImporter:
       name: FrontFlip_8
       rect:
         serializedVersion: 2
-        x: 688
-        y: 895
-        width: 43
-        height: 125
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -837,12 +837,12 @@ TextureImporter:
       name: FrontFlip_9
       rect:
         serializedVersion: 2
-        x: 817
-        y: 895
-        width: 41
-        height: 125
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -859,12 +859,12 @@ TextureImporter:
       name: FrontFlip_10
       rect:
         serializedVersion: 2
-        x: 945
-        y: 895
-        width: 41
-        height: 126
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -881,12 +881,12 @@ TextureImporter:
       name: FrontFlip_11
       rect:
         serializedVersion: 2
-        x: 1074
-        y: 895
-        width: 39
-        height: 126
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -903,12 +903,12 @@ TextureImporter:
       name: FrontFlip_12
       rect:
         serializedVersion: 2
-        x: 1202
-        y: 895
-        width: 39
-        height: 126
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -925,12 +925,12 @@ TextureImporter:
       name: FrontFlip_13
       rect:
         serializedVersion: 2
-        x: 1331
-        y: 895
-        width: 37
-        height: 127
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -947,12 +947,12 @@ TextureImporter:
       name: FrontFlip_14
       rect:
         serializedVersion: 2
-        x: 1460
-        y: 895
-        width: 36
-        height: 127
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -969,12 +969,12 @@ TextureImporter:
       name: FrontFlip_15
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 895
-        width: 46
-        height: 83
+        x: 0
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -991,12 +991,12 @@ TextureImporter:
       name: FrontFlip_16
       rect:
         serializedVersion: 2
-        x: 1590
-        y: 952
-        width: 28
-        height: 65
+        x: 128
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1013,12 +1013,12 @@ TextureImporter:
       name: FrontFlip_17
       rect:
         serializedVersion: 2
-        x: 1717
-        y: 905
-        width: 61
-        height: 94
+        x: 256
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1035,12 +1035,12 @@ TextureImporter:
       name: FrontFlip_18
       rect:
         serializedVersion: 2
-        x: 1845
-        y: 917
-        width: 60
-        height: 77
+        x: 384
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1057,12 +1057,12 @@ TextureImporter:
       name: FrontFlip_19
       rect:
         serializedVersion: 2
-        x: 50
-        y: 786
-        width: 43
-        height: 72
+        x: 512
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1079,12 +1079,12 @@ TextureImporter:
       name: FrontFlip_20
       rect:
         serializedVersion: 2
-        x: 175
-        y: 781
-        width: 69
-        height: 80
+        x: 640
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1101,12 +1101,12 @@ TextureImporter:
       name: FrontFlip_21
       rect:
         serializedVersion: 2
-        x: 299
-        y: 825
-        width: 57
-        height: 47
+        x: 768
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1123,12 +1123,12 @@ TextureImporter:
       name: FrontFlip_22
       rect:
         serializedVersion: 2
-        x: 412
-        y: 767
-        width: 97
-        height: 68
+        x: 896
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1145,12 +1145,12 @@ TextureImporter:
       name: FrontFlip_23
       rect:
         serializedVersion: 2
-        x: 425
-        y: 830
-        width: 55
-        height: 52
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1167,12 +1167,12 @@ TextureImporter:
       name: FrontFlip_24
       rect:
         serializedVersion: 2
-        x: 540
-        y: 767
-        width: 96
-        height: 68
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1189,12 +1189,12 @@ TextureImporter:
       name: FrontFlip_25
       rect:
         serializedVersion: 2
-        x: 553
-        y: 830
-        width: 55
-        height: 53
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1211,12 +1211,12 @@ TextureImporter:
       name: FrontFlip_26
       rect:
         serializedVersion: 2
-        x: 667
-        y: 767
-        width: 97
-        height: 69
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1233,12 +1233,12 @@ TextureImporter:
       name: FrontFlip_27
       rect:
         serializedVersion: 2
-        x: 681
-        y: 829
-        width: 55
-        height: 54
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1255,12 +1255,12 @@ TextureImporter:
       name: FrontFlip_28
       rect:
         serializedVersion: 2
-        x: 795
-        y: 767
-        width: 98
-        height: 69
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1277,12 +1277,12 @@ TextureImporter:
       name: FrontFlip_29
       rect:
         serializedVersion: 2
-        x: 810
-        y: 829
-        width: 54
-        height: 54
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1299,12 +1299,12 @@ TextureImporter:
       name: FrontFlip_30
       rect:
         serializedVersion: 2
-        x: 922
-        y: 767
-        width: 99
-        height: 70
+        x: 0
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1321,12 +1321,12 @@ TextureImporter:
       name: FrontFlip_31
       rect:
         serializedVersion: 2
-        x: 937
-        y: 828
-        width: 54
-        height: 56
+        x: 128
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1343,12 +1343,12 @@ TextureImporter:
       name: FrontFlip_32
       rect:
         serializedVersion: 2
-        x: 1050
-        y: 767
-        width: 98
-        height: 70
+        x: 256
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1365,12 +1365,12 @@ TextureImporter:
       name: FrontFlip_33
       rect:
         serializedVersion: 2
-        x: 1065
-        y: 828
-        width: 54
-        height: 56
+        x: 384
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1387,12 +1387,12 @@ TextureImporter:
       name: FrontFlip_34
       rect:
         serializedVersion: 2
-        x: 1178
-        y: 767
-        width: 98
-        height: 71
+        x: 512
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1409,12 +1409,12 @@ TextureImporter:
       name: FrontFlip_35
       rect:
         serializedVersion: 2
-        x: 1193
-        y: 828
-        width: 54
-        height: 57
+        x: 640
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1431,12 +1431,12 @@ TextureImporter:
       name: FrontFlip_36
       rect:
         serializedVersion: 2
-        x: 1306
-        y: 767
-        width: 98
-        height: 71
+        x: 768
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1453,12 +1453,12 @@ TextureImporter:
       name: FrontFlip_37
       rect:
         serializedVersion: 2
-        x: 1321
-        y: 827
-        width: 54
-        height: 58
+        x: 896
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1475,12 +1475,12 @@ TextureImporter:
       name: FrontFlip_38
       rect:
         serializedVersion: 2
-        x: 1433
-        y: 767
-        width: 99
-        height: 72
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1497,12 +1497,12 @@ TextureImporter:
       name: FrontFlip_39
       rect:
         serializedVersion: 2
-        x: 1449
-        y: 827
-        width: 54
-        height: 58
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1519,12 +1519,12 @@ TextureImporter:
       name: FrontFlip_40
       rect:
         serializedVersion: 2
-        x: 1578
-        y: 823
-        width: 56
-        height: 54
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1541,12 +1541,12 @@ TextureImporter:
       name: FrontFlip_41
       rect:
         serializedVersion: 2
-        x: 1708
-        y: 773
-        width: 77
-        height: 91
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1563,12 +1563,12 @@ TextureImporter:
       name: FrontFlip_42
       rect:
         serializedVersion: 2
-        x: 1842
-        y: 789
-        width: 53
-        height: 74
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1585,12 +1585,12 @@ TextureImporter:
       name: FrontFlip_43
       rect:
         serializedVersion: 2
-        x: 287
-        y: 767
-        width: 95
-        height: 55
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1607,12 +1607,12 @@ TextureImporter:
       name: FrontFlip_44
       rect:
         serializedVersion: 2
-        x: 1564
-        y: 767
-        width: 99
-        height: 60
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1629,12 +1629,12 @@ TextureImporter:
       name: FrontFlip_45
       rect:
         serializedVersion: 2
-        x: 155
-        y: 648
-        width: 62
-        height: 89
+        x: 0
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1651,12 +1651,12 @@ TextureImporter:
       name: FrontFlip_46
       rect:
         serializedVersion: 2
-        x: 279
-        y: 729
-        width: 11
-        height: 7
+        x: 128
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1673,12 +1673,12 @@ TextureImporter:
       name: FrontFlip_47
       rect:
         serializedVersion: 2
-        x: 288
-        y: 696
-        width: 63
-        height: 46
+        x: 256
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1695,12 +1695,12 @@ TextureImporter:
       name: FrontFlip_48
       rect:
         serializedVersion: 2
-        x: 406
-        y: 734
-        width: 11
-        height: 7
+        x: 384
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1717,12 +1717,12 @@ TextureImporter:
       name: FrontFlip_49
       rect:
         serializedVersion: 2
-        x: 416
-        y: 701
-        width: 67
-        height: 47
+        x: 512
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1739,12 +1739,12 @@ TextureImporter:
       name: FrontFlip_50
       rect:
         serializedVersion: 2
-        x: 535
-        y: 700
-        width: 76
-        height: 48
+        x: 640
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1761,12 +1761,12 @@ TextureImporter:
       name: FrontFlip_51
       rect:
         serializedVersion: 2
-        x: 664
-        y: 700
-        width: 75
-        height: 48
+        x: 768
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1783,12 +1783,12 @@ TextureImporter:
       name: FrontFlip_52
       rect:
         serializedVersion: 2
-        x: 791
-        y: 700
-        width: 76
-        height: 48
+        x: 896
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1805,12 +1805,12 @@ TextureImporter:
       name: FrontFlip_53
       rect:
         serializedVersion: 2
-        x: 919
-        y: 699
-        width: 76
-        height: 49
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1827,12 +1827,12 @@ TextureImporter:
       name: FrontFlip_54
       rect:
         serializedVersion: 2
-        x: 1047
-        y: 699
-        width: 76
-        height: 49
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1849,12 +1849,12 @@ TextureImporter:
       name: FrontFlip_55
       rect:
         serializedVersion: 2
-        x: 1175
-        y: 698
-        width: 76
-        height: 50
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1871,12 +1871,12 @@ TextureImporter:
       name: FrontFlip_56
       rect:
         serializedVersion: 2
-        x: 1304
-        y: 698
-        width: 75
-        height: 49
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1893,12 +1893,12 @@ TextureImporter:
       name: FrontFlip_57
       rect:
         serializedVersion: 2
-        x: 1432
-        y: 698
-        width: 75
-        height: 49
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1915,12 +1915,12 @@ TextureImporter:
       name: FrontFlip_58
       rect:
         serializedVersion: 2
-        x: 1561
-        y: 694
-        width: 72
-        height: 49
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1937,12 +1937,12 @@ TextureImporter:
       name: FrontFlip_59
       rect:
         serializedVersion: 2
-        x: 1686
-        y: 650
-        width: 76
-        height: 88
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1959,12 +1959,12 @@ TextureImporter:
       name: FrontFlip_60
       rect:
         serializedVersion: 2
-        x: 1828
-        y: 650
-        width: 45
-        height: 86
+        x: 0
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1981,12 +1981,12 @@ TextureImporter:
       name: FrontFlip_61
       rect:
         serializedVersion: 2
-        x: 38
-        y: 653
-        width: 39
-        height: 67
+        x: 128
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2003,12 +2003,12 @@ TextureImporter:
       name: FrontFlip_62
       rect:
         serializedVersion: 2
-        x: 52
-        y: 718
-        width: 14
-        height: 13
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2025,12 +2025,12 @@ TextureImporter:
       name: FrontFlip_63
       rect:
         serializedVersion: 2
-        x: 255
-        y: 658
-        width: 120
-        height: 37
+        x: 384
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2047,12 +2047,12 @@ TextureImporter:
       name: FrontFlip_64
       rect:
         serializedVersion: 2
-        x: 383
-        y: 666
-        width: 130
-        height: 31
+        x: 512
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2069,12 +2069,12 @@ TextureImporter:
       name: FrontFlip_65
       rect:
         serializedVersion: 2
-        x: 511
-        y: 667
-        width: 130
-        height: 29
+        x: 640
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2091,12 +2091,12 @@ TextureImporter:
       name: FrontFlip_66
       rect:
         serializedVersion: 2
-        x: 639
-        y: 667
-        width: 130
-        height: 29
+        x: 768
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2113,12 +2113,12 @@ TextureImporter:
       name: FrontFlip_67
       rect:
         serializedVersion: 2
-        x: 767
-        y: 667
-        width: 130
-        height: 29
+        x: 896
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2135,12 +2135,12 @@ TextureImporter:
       name: FrontFlip_68
       rect:
         serializedVersion: 2
-        x: 895
-        y: 668
-        width: 130
-        height: 27
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2157,12 +2157,12 @@ TextureImporter:
       name: FrontFlip_69
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 668
-        width: 130
-        height: 27
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2179,12 +2179,12 @@ TextureImporter:
       name: FrontFlip_70
       rect:
         serializedVersion: 2
-        x: 1151
-        y: 668
-        width: 130
-        height: 26
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2201,12 +2201,12 @@ TextureImporter:
       name: FrontFlip_71
       rect:
         serializedVersion: 2
-        x: 1279
-        y: 669
-        width: 129
-        height: 25
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2223,12 +2223,12 @@ TextureImporter:
       name: FrontFlip_72
       rect:
         serializedVersion: 2
-        x: 1407
-        y: 669
-        width: 129
-        height: 24
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2245,12 +2245,12 @@ TextureImporter:
       name: FrontFlip_73
       rect:
         serializedVersion: 2
-        x: 1535
-        y: 661
-        width: 126
-        height: 32
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2267,12 +2267,12 @@ TextureImporter:
       name: FrontFlip_74
       rect:
         serializedVersion: 2
-        x: 542
-        y: 626
-        width: 8
-        height: 8
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2289,12 +2289,12 @@ TextureImporter:
       name: FrontFlip_75
       rect:
         serializedVersion: 2
-        x: 673
-        y: 626
-        width: 6
-        height: 6
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2311,12 +2311,12 @@ TextureImporter:
       name: FrontFlip_76
       rect:
         serializedVersion: 2
-        x: 796
-        y: 570
-        width: 56
-        height: 69
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2333,12 +2333,12 @@ TextureImporter:
       name: FrontFlip_77
       rect:
         serializedVersion: 2
-        x: 924
-        y: 570
-        width: 56
-        height: 70
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2355,12 +2355,12 @@ TextureImporter:
       name: FrontFlip_78
       rect:
         serializedVersion: 2
-        x: 1052
-        y: 570
-        width: 57
-        height: 71
+        x: 384
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2377,12 +2377,12 @@ TextureImporter:
       name: FrontFlip_79
       rect:
         serializedVersion: 2
-        x: 1181
-        y: 570
-        width: 56
-        height: 70
+        x: 512
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2399,12 +2399,12 @@ TextureImporter:
       name: FrontFlip_80
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 570
-        width: 54
-        height: 68
+        x: 640
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2421,12 +2421,12 @@ TextureImporter:
       name: FrontFlip_81
       rect:
         serializedVersion: 2
-        x: 1440
-        y: 569
-        width: 53
-        height: 68
+        x: 768
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2443,12 +2443,12 @@ TextureImporter:
       name: FrontFlip_82
       rect:
         serializedVersion: 2
-        x: 1535
-        y: 505
-        width: 93
-        height: 130
+        x: 896
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2465,12 +2465,12 @@ TextureImporter:
       name: FrontFlip_83
       rect:
         serializedVersion: 2
-        x: 32
-        y: 535
-        width: 45
-        height: 70
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2487,12 +2487,12 @@ TextureImporter:
       name: FrontFlip_84
       rect:
         serializedVersion: 2
-        x: 156
-        y: 520
-        width: 51
-        height: 100
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2509,12 +2509,12 @@ TextureImporter:
       name: FrontFlip_85
       rect:
         serializedVersion: 2
-        x: 255
-        y: 498
-        width: 85
-        height: 120
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2531,12 +2531,12 @@ TextureImporter:
       name: FrontFlip_86
       rect:
         serializedVersion: 2
-        x: 383
-        y: 504
-        width: 105
-        height: 84
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2553,12 +2553,12 @@ TextureImporter:
       name: FrontFlip_87
       rect:
         serializedVersion: 2
-        x: 424
-        y: 571
-        width: 43
-        height: 52
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2575,12 +2575,12 @@ TextureImporter:
       name: FrontFlip_88
       rect:
         serializedVersion: 2
-        x: 511
-        y: 505
-        width: 105
-        height: 83
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2597,12 +2597,12 @@ TextureImporter:
       name: FrontFlip_89
       rect:
         serializedVersion: 2
-        x: 552
-        y: 571
-        width: 43
-        height: 53
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2619,12 +2619,12 @@ TextureImporter:
       name: FrontFlip_90
       rect:
         serializedVersion: 2
-        x: 639
-        y: 504
-        width: 106
-        height: 85
+        x: 0
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2641,12 +2641,12 @@ TextureImporter:
       name: FrontFlip_91
       rect:
         serializedVersion: 2
-        x: 680
-        y: 570
-        width: 44
-        height: 54
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2663,12 +2663,12 @@ TextureImporter:
       name: FrontFlip_92
       rect:
         serializedVersion: 2
-        x: 767
-        y: 515
-        width: 107
-        height: 74
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2685,12 +2685,12 @@ TextureImporter:
       name: FrontFlip_93
       rect:
         serializedVersion: 2
-        x: 895
-        y: 506
-        width: 108
-        height: 83
+        x: 384
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2707,12 +2707,12 @@ TextureImporter:
       name: FrontFlip_94
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 515
-        width: 108
-        height: 75
+        x: 512
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2729,12 +2729,12 @@ TextureImporter:
       name: FrontFlip_95
       rect:
         serializedVersion: 2
-        x: 1151
-        y: 507
-        width: 109
-        height: 83
+        x: 640
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2751,12 +2751,12 @@ TextureImporter:
       name: FrontFlip_96
       rect:
         serializedVersion: 2
-        x: 1279
-        y: 515
-        width: 110
-        height: 75
+        x: 768
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2773,12 +2773,12 @@ TextureImporter:
       name: FrontFlip_97
       rect:
         serializedVersion: 2
-        x: 1407
-        y: 515
-        width: 111
-        height: 75
+        x: 896
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2795,12 +2795,12 @@ TextureImporter:
       name: FrontFlip_98
       rect:
         serializedVersion: 2
-        x: 1683
-        y: 517
-        width: 60
-        height: 107
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2817,12 +2817,12 @@ TextureImporter:
       name: FrontFlip_99
       rect:
         serializedVersion: 2
-        x: 1828
-        y: 529
-        width: 41
-        height: 81
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2839,12 +2839,12 @@ TextureImporter:
       name: FrontFlip_100
       rect:
         serializedVersion: 2
-        x: 24
-        y: 419
-        width: 54
-        height: 61
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2861,12 +2861,12 @@ TextureImporter:
       name: FrontFlip_101
       rect:
         serializedVersion: 2
-        x: 147
-        y: 411
-        width: 61
-        height: 90
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2883,12 +2883,12 @@ TextureImporter:
       name: FrontFlip_102
       rect:
         serializedVersion: 2
-        x: 290
-        y: 391
-        width: 49
-        height: 107
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2905,12 +2905,12 @@ TextureImporter:
       name: FrontFlip_103
       rect:
         serializedVersion: 2
-        x: 430
-        y: 383
-        width: 40
-        height: 122
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2927,12 +2927,12 @@ TextureImporter:
       name: FrontFlip_104
       rect:
         serializedVersion: 2
-        x: 559
-        y: 383
-        width: 38
-        height: 123
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2949,12 +2949,12 @@ TextureImporter:
       name: FrontFlip_105
       rect:
         serializedVersion: 2
-        x: 688
-        y: 383
-        width: 36
-        height: 121
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2971,12 +2971,12 @@ TextureImporter:
       name: FrontFlip_106
       rect:
         serializedVersion: 2
-        x: 816
-        y: 383
-        width: 36
-        height: 129
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2993,12 +2993,12 @@ TextureImporter:
       name: FrontFlip_107
       rect:
         serializedVersion: 2
-        x: 944
-        y: 383
-        width: 35
-        height: 124
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3015,12 +3015,12 @@ TextureImporter:
       name: FrontFlip_108
       rect:
         serializedVersion: 2
-        x: 1073
-        y: 383
-        width: 34
-        height: 130
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3037,12 +3037,12 @@ TextureImporter:
       name: FrontFlip_109
       rect:
         serializedVersion: 2
-        x: 1201
-        y: 383
-        width: 33
-        height: 125
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3059,12 +3059,12 @@ TextureImporter:
       name: FrontFlip_110
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 383
-        width: 32
-        height: 129
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3081,12 +3081,12 @@ TextureImporter:
       name: FrontFlip_111
       rect:
         serializedVersion: 2
-        x: 1458
-        y: 383
-        width: 32
-        height: 129
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3103,12 +3103,12 @@ TextureImporter:
       name: FrontFlip_112
       rect:
         serializedVersion: 2
-        x: 1575
-        y: 387
-        width: 42
-        height: 119
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3125,12 +3125,12 @@ TextureImporter:
       name: FrontFlip_113
       rect:
         serializedVersion: 2
-        x: 1685
-        y: 405
-        width: 59
-        height: 101
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3147,12 +3147,12 @@ TextureImporter:
       name: FrontFlip_114
       rect:
         serializedVersion: 2
-        x: 1812
-        y: 416
-        width: 59
-        height: 70
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3169,12 +3169,12 @@ TextureImporter:
       name: FrontFlip_115
       rect:
         serializedVersion: 2
-        x: 39
-        y: 290
-        width: 43
-        height: 65
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3191,12 +3191,12 @@ TextureImporter:
       name: FrontFlip_116
       rect:
         serializedVersion: 2
-        x: 147
-        y: 289
-        width: 68
-        height: 86
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3213,12 +3213,12 @@ TextureImporter:
       name: FrontFlip_117
       rect:
         serializedVersion: 2
-        x: 267
-        y: 288
-        width: 102
-        height: 97
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3235,12 +3235,12 @@ TextureImporter:
       name: FrontFlip_118
       rect:
         serializedVersion: 2
-        x: 397
-        y: 274
-        width: 108
-        height: 82
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3257,12 +3257,12 @@ TextureImporter:
       name: FrontFlip_119
       rect:
         serializedVersion: 2
-        x: 417
-        y: 308
-        width: 55
-        height: 77
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3275,1309 +3275,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: FrontFlip_120
-      rect:
-        serializedVersion: 2
-        x: 526
-        y: 274
-        width: 107
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: efde4932a0520b3d0800000000000000
-      internalID: -3193011410328818178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_121
-      rect:
-        serializedVersion: 2
-        x: 545
-        y: 308
-        width: 54
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d51b94563d814bcf0800000000000000
-      internalID: -237537584127299235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_122
-      rect:
-        serializedVersion: 2
-        x: 653
-        y: 273
-        width: 110
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9b9d1fc8f44daaa0800000000000000
-      internalID: -6148182080873456737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_123
-      rect:
-        serializedVersion: 2
-        x: 674
-        y: 308
-        width: 53
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d7a952519c527e70800000000000000
-      internalID: 9111446775345555413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_124
-      rect:
-        serializedVersion: 2
-        x: 782
-        y: 273
-        width: 109
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f275eebf255e93640800000000000000
-      internalID: 5060327800904242991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_125
-      rect:
-        serializedVersion: 2
-        x: 802
-        y: 309
-        width: 53
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b3dea24838b75c10800000000000000
-      internalID: 2042303507812242355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_126
-      rect:
-        serializedVersion: 2
-        x: 910
-        y: 272
-        width: 110
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 814a211b69b0c1a00800000000000000
-      internalID: 728469981570966552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_127
-      rect:
-        serializedVersion: 2
-        x: 930
-        y: 309
-        width: 54
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40958931e867ff2e0800000000000000
-      internalID: -2089821349490435836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_128
-      rect:
-        serializedVersion: 2
-        x: 1038
-        y: 272
-        width: 110
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf2ac7161bfd1eec0800000000000000
-      internalID: -3539301879198735620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_129
-      rect:
-        serializedVersion: 2
-        x: 1058
-        y: 309
-        width: 54
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6331b08c0f759b160800000000000000
-      internalID: 7041756184030417718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_130
-      rect:
-        serializedVersion: 2
-        x: 1166
-        y: 271
-        width: 111
-        height: 114
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7b6141e4ddf792d0800000000000000
-      internalID: -3271867513507320963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_131
-      rect:
-        serializedVersion: 2
-        x: 1294
-        y: 271
-        width: 111
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01fe3e90760444220800000000000000
-      internalID: 2469169306997616400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_132
-      rect:
-        serializedVersion: 2
-        x: 1315
-        y: 310
-        width: 53
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d92112bc1ea51fd0800000000000000
-      internalID: -2371798190470911530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_133
-      rect:
-        serializedVersion: 2
-        x: 1423
-        y: 270
-        width: 111
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 712c41a0f34607780800000000000000
-      internalID: -8687333459282836969
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_134
-      rect:
-        serializedVersion: 2
-        x: 1546
-        y: 282
-        width: 108
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f52accb496803f550800000000000000
-      internalID: 6193303160900854367
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_135
-      rect:
-        serializedVersion: 2
-        x: 1678
-        y: 290
-        width: 79
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be43914cbccf25f20800000000000000
-      internalID: 3410065819971433707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_136
-      rect:
-        serializedVersion: 2
-        x: 1822
-        y: 290
-        width: 53
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e8a41cfa8bade2f0800000000000000
-      internalID: -941908133627516702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_137
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 162
-        width: 41
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2184905391964c90800000000000000
-      internalID: -7185896093524917973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_138
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 161
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 32187b55a446b0e20800000000000000
-      internalID: 3317855820916949283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_139
-      rect:
-        serializedVersion: 2
-        x: 274
-        y: 159
-        width: 111
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8268d277b89c4c220800000000000000
-      internalID: 2505348893561947688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_140
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 157
-        width: 120
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d9e4fc87a84ab7f30800000000000000
-      internalID: 4574430761164164765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_141
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 180
-        width: 77
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfe0d6b6bb22536a0800000000000000
-      internalID: -6470227101291311364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_142
-      rect:
-        serializedVersion: 2
-        x: 520
-        y: 157
-        width: 119
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce69aa9d86ea94900800000000000000
-      internalID: 669257784992896748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_143
-      rect:
-        serializedVersion: 2
-        x: 543
-        y: 180
-        width: 77
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5a8994e33795c8f0800000000000000
-      internalID: -520843932757030306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_144
-      rect:
-        serializedVersion: 2
-        x: 648
-        y: 158
-        width: 120
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98d98988222670920800000000000000
-      internalID: 2956439580852133257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_145
-      rect:
-        serializedVersion: 2
-        x: 671
-        y: 181
-        width: 76
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c1ab029d80d8d9320800000000000000
-      internalID: 2566362431813106204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_146
-      rect:
-        serializedVersion: 2
-        x: 776
-        y: 158
-        width: 119
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b02552f3bc750100800000000000000
-      internalID: 73602081228136627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_147
-      rect:
-        serializedVersion: 2
-        x: 799
-        y: 181
-        width: 76
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dee1153125bb49230800000000000000
-      internalID: 3644743959635369709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_148
-      rect:
-        serializedVersion: 2
-        x: 903
-        y: 159
-        width: 121
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 503354b00c8db07f0800000000000000
-      internalID: -645183802263129339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_149
-      rect:
-        serializedVersion: 2
-        x: 927
-        y: 181
-        width: 76
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f90c766ffd26fb30800000000000000
-      internalID: 4320691467467885042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_150
-      rect:
-        serializedVersion: 2
-        x: 1031
-        y: 159
-        width: 121
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41184291cc8a07f70800000000000000
-      internalID: 9183025234757058836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_151
-      rect:
-        serializedVersion: 2
-        x: 1054
-        y: 181
-        width: 77
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05339f1771dc31520800000000000000
-      internalID: 2671704504540934992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_152
-      rect:
-        serializedVersion: 2
-        x: 1158
-        y: 160
-        width: 121
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 65641482fae2c92c0800000000000000
-      internalID: -4423609404155148714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_153
-      rect:
-        serializedVersion: 2
-        x: 1182
-        y: 182
-        width: 77
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8eaa4579be5511990800000000000000
-      internalID: -7417052640957912344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_154
-      rect:
-        serializedVersion: 2
-        x: 1286
-        y: 160
-        width: 121
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ece88e1ce10b6950800000000000000
-      internalID: 6443245805519826148
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_155
-      rect:
-        serializedVersion: 2
-        x: 1310
-        y: 182
-        width: 76
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f8c236439f3d8a40800000000000000
-      internalID: 5372019832293345520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_156
-      rect:
-        serializedVersion: 2
-        x: 1414
-        y: 160
-        width: 121
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5cc9c79f7d9ea0fa0800000000000000
-      internalID: -5833593253492122427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_157
-      rect:
-        serializedVersion: 2
-        x: 1438
-        y: 182
-        width: 76
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 14c6af69a3022bec0800000000000000
-      internalID: -3552741720028713919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_158
-      rect:
-        serializedVersion: 2
-        x: 1549
-        y: 160
-        width: 115
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 804dd18c0ea740170800000000000000
-      internalID: 8143769132041360392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_159
-      rect:
-        serializedVersion: 2
-        x: 1700
-        y: 161
-        width: 81
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e01f258f41d6d3870800000000000000
-      internalID: 8664201194963661070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_160
-      rect:
-        serializedVersion: 2
-        x: 1844
-        y: 162
-        width: 46
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3dedea7574ea64a40800000000000000
-      internalID: 5352156828613402323
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_161
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 31
-        width: 46
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88430341bc1c1e180800000000000000
-      internalID: -9087769495095724920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_162
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 29
-        width: 59
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce904fb6c838dbd50800000000000000
-      internalID: 6754699655255427564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_163
-      rect:
-        serializedVersion: 2
-        x: 307
-        y: 15
-        width: 77
-        height: 104
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55e1b11cd4e823a50800000000000000
-      internalID: 6499413676852452949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_164
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 13
-        width: 93
-        height: 108
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 946c086c703dfc040800000000000000
-      internalID: 4670183368955053641
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_165
-      rect:
-        serializedVersion: 2
-        x: 547
-        y: 13
-        width: 94
-        height: 108
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3e5ac683dee444d0800000000000000
-      internalID: -3151131246985585093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_166
-      rect:
-        serializedVersion: 2
-        x: 675
-        y: 14
-        width: 78
-        height: 108
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7ff2706374e9a8f0800000000000000
-      internalID: -528640297048801411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_167
-      rect:
-        serializedVersion: 2
-        x: 802
-        y: 12
-        width: 95
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95af91c7a35137f90800000000000000
-      internalID: -6957193658422920615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_168
-      rect:
-        serializedVersion: 2
-        x: 929
-        y: 12
-        width: 96
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8ce2d9c834108a80800000000000000
-      internalID: -8466745065319764850
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_169
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 13
-        width: 85
-        height: 109
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7a55d4a302ef9120800000000000000
-      internalID: 2422903629826841211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_170
-      rect:
-        serializedVersion: 2
-        x: 1184
-        y: 13
-        width: 84
-        height: 109
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03fadf2ed662e1310800000000000000
-      internalID: 1377580789423517488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_171
-      rect:
-        serializedVersion: 2
-        x: 1311
-        y: 11
-        width: 98
-        height: 111
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 668bdc91e52234130800000000000000
-      internalID: 3549718718853265510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_172
-      rect:
-        serializedVersion: 2
-        x: 1438
-        y: 11
-        width: 99
-        height: 111
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 010a5ba370fe2ae70800000000000000
-      internalID: 9125118609334837264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_173
-      rect:
-        serializedVersion: 2
-        x: 1583
-        y: 13
-        width: 82
-        height: 108
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9dd355d078a9f33a0800000000000000
-      internalID: -6683453417159574055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_174
-      rect:
-        serializedVersion: 2
-        x: 1717
-        y: 25
-        width: 69
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7d86fb9dac7e8c80800000000000000
-      internalID: -8318574376618914438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_175
-      rect:
-        serializedVersion: 2
-        x: 1845
-        y: 31
-        width: 46
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96e05c42803156ad0800000000000000
-      internalID: -2709738675095925143
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_176
-      rect:
-        serializedVersion: 2
-        x: 752
-        y: 12
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b9189b61f9057fb0800000000000000
-      internalID: -4650800107693270599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_177
-      rect:
-        serializedVersion: 2
-        x: 1140
-        y: 11
-        width: 13
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb0b25750b1d58450800000000000000
-      internalID: 6090504626397950140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FrontFlip_178
-      rect:
-        serializedVersion: 2
-        x: 1267
-        y: 11
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb1db657485e51f80800000000000000
-      internalID: -8136344794706488897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 78baf0e7af220114fa6a168395810cbb
     internalID: 0
     vertices: []
     indices: 
@@ -4585,7 +3287,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       FrontFlip_0: 8471284121543850762
       FrontFlip_1: -5316296518032136385
@@ -4612,70 +3316,11 @@ TextureImporter:
       FrontFlip_118: 7482587476303537153
       FrontFlip_119: 7691777413589550390
       FrontFlip_12: 5422826462559046205
-      FrontFlip_120: -3193011410328818178
-      FrontFlip_121: -237537584127299235
-      FrontFlip_122: -6148182080873456737
-      FrontFlip_123: 9111446775345555413
-      FrontFlip_124: 5060327800904242991
-      FrontFlip_125: 2042303507812242355
-      FrontFlip_126: 728469981570966552
-      FrontFlip_127: -2089821349490435836
-      FrontFlip_128: -3539301879198735620
-      FrontFlip_129: 7041756184030417718
       FrontFlip_13: -2242777676625595096
-      FrontFlip_130: -3271867513507320963
-      FrontFlip_131: 2469169306997616400
-      FrontFlip_132: -2371798190470911530
-      FrontFlip_133: -8687333459282836969
-      FrontFlip_134: 6193303160900854367
-      FrontFlip_135: 3410065819971433707
-      FrontFlip_136: -941908133627516702
-      FrontFlip_137: -7185896093524917973
-      FrontFlip_138: 3317855820916949283
-      FrontFlip_139: 2505348893561947688
       FrontFlip_14: -3331938669276885945
-      FrontFlip_140: 4574430761164164765
-      FrontFlip_141: -6470227101291311364
-      FrontFlip_142: 669257784992896748
-      FrontFlip_143: -520843932757030306
-      FrontFlip_144: 2956439580852133257
-      FrontFlip_145: 2566362431813106204
-      FrontFlip_146: 73602081228136627
-      FrontFlip_147: 3644743959635369709
-      FrontFlip_148: -645183802263129339
-      FrontFlip_149: 4320691467467885042
       FrontFlip_15: 7237448509450102117
-      FrontFlip_150: 9183025234757058836
-      FrontFlip_151: 2671704504540934992
-      FrontFlip_152: -4423609404155148714
-      FrontFlip_153: -7417052640957912344
-      FrontFlip_154: 6443245805519826148
-      FrontFlip_155: 5372019832293345520
-      FrontFlip_156: -5833593253492122427
-      FrontFlip_157: -3552741720028713919
-      FrontFlip_158: 8143769132041360392
-      FrontFlip_159: 8664201194963661070
       FrontFlip_16: -3707188490791940320
-      FrontFlip_160: 5352156828613402323
-      FrontFlip_161: -9087769495095724920
-      FrontFlip_162: 6754699655255427564
-      FrontFlip_163: 6499413676852452949
-      FrontFlip_164: 4670183368955053641
-      FrontFlip_165: -3151131246985585093
-      FrontFlip_166: -528640297048801411
-      FrontFlip_167: -6957193658422920615
-      FrontFlip_168: -8466745065319764850
-      FrontFlip_169: 2422903629826841211
       FrontFlip_17: 5825818756069483423
-      FrontFlip_170: 1377580789423517488
-      FrontFlip_171: 3549718718853265510
-      FrontFlip_172: 9125118609334837264
-      FrontFlip_173: -6683453417159574055
-      FrontFlip_174: -8318574376618914438
-      FrontFlip_175: -2709738675095925143
-      FrontFlip_176: -4650800107693270599
-      FrontFlip_177: 6090504626397950140
-      FrontFlip_178: -8136344794706488897
       FrontFlip_18: 4144434420276566953
       FrontFlip_19: -2149456471656855637
       FrontFlip_2: -385859983790490490

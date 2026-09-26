@@ -403,7 +403,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -471,12 +471,12 @@ TextureImporter:
       name: CrouchIdle_0
       rect:
         serializedVersion: 2
-        x: 53
-        y: 918
-        width: 56
-        height: 55
+        x: 0
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -493,12 +493,12 @@ TextureImporter:
       name: CrouchIdle_1
       rect:
         serializedVersion: 2
-        x: 181
-        y: 918
-        width: 56
-        height: 54
+        x: 128
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -515,12 +515,12 @@ TextureImporter:
       name: CrouchIdle_2
       rect:
         serializedVersion: 2
-        x: 309
-        y: 918
-        width: 55
-        height: 55
+        x: 256
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -537,12 +537,12 @@ TextureImporter:
       name: CrouchIdle_3
       rect:
         serializedVersion: 2
-        x: 437
-        y: 918
-        width: 56
-        height: 54
+        x: 384
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -559,12 +559,12 @@ TextureImporter:
       name: CrouchIdle_4
       rect:
         serializedVersion: 2
-        x: 565
-        y: 918
-        width: 56
-        height: 56
+        x: 512
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -581,12 +581,12 @@ TextureImporter:
       name: CrouchIdle_5
       rect:
         serializedVersion: 2
-        x: 693
-        y: 918
-        width: 56
-        height: 57
+        x: 640
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -603,12 +603,12 @@ TextureImporter:
       name: CrouchIdle_6
       rect:
         serializedVersion: 2
-        x: 821
-        y: 918
-        width: 57
-        height: 59
+        x: 768
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -625,12 +625,12 @@ TextureImporter:
       name: CrouchIdle_7
       rect:
         serializedVersion: 2
-        x: 949
-        y: 918
-        width: 57
-        height: 62
+        x: 896
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -647,12 +647,12 @@ TextureImporter:
       name: CrouchIdle_8
       rect:
         serializedVersion: 2
-        x: 1077
-        y: 917
-        width: 57
-        height: 62
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -669,12 +669,12 @@ TextureImporter:
       name: CrouchIdle_9
       rect:
         serializedVersion: 2
-        x: 1205
-        y: 917
-        width: 57
-        height: 62
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -691,12 +691,12 @@ TextureImporter:
       name: CrouchIdle_10
       rect:
         serializedVersion: 2
-        x: 1333
-        y: 917
-        width: 56
-        height: 60
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -713,12 +713,12 @@ TextureImporter:
       name: CrouchIdle_11
       rect:
         serializedVersion: 2
-        x: 1461
-        y: 917
-        width: 56
-        height: 60
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -735,12 +735,12 @@ TextureImporter:
       name: CrouchIdle_12
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 917
-        width: 56
-        height: 58
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -757,12 +757,12 @@ TextureImporter:
       name: CrouchIdle_13
       rect:
         serializedVersion: 2
-        x: 1717
-        y: 917
-        width: 56
-        height: 57
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -779,12 +779,12 @@ TextureImporter:
       name: CrouchIdle_14
       rect:
         serializedVersion: 2
-        x: 1845
-        y: 918
-        width: 56
-        height: 56
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -801,12 +801,12 @@ TextureImporter:
       name: CrouchIdle_15
       rect:
         serializedVersion: 2
-        x: 44
-        y: 787
-        width: 50
-        height: 52
+        x: 0
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -823,12 +823,12 @@ TextureImporter:
       name: CrouchIdle_16
       rect:
         serializedVersion: 2
-        x: 173
-        y: 787
-        width: 49
-        height: 53
+        x: 128
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -845,12 +845,12 @@ TextureImporter:
       name: CrouchIdle_17
       rect:
         serializedVersion: 2
-        x: 301
-        y: 787
-        width: 49
-        height: 53
+        x: 256
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -867,12 +867,12 @@ TextureImporter:
       name: CrouchIdle_18
       rect:
         serializedVersion: 2
-        x: 430
-        y: 786
-        width: 48
-        height: 54
+        x: 384
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -889,12 +889,12 @@ TextureImporter:
       name: CrouchIdle_19
       rect:
         serializedVersion: 2
-        x: 556
-        y: 786
-        width: 50
-        height: 55
+        x: 512
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -911,12 +911,12 @@ TextureImporter:
       name: CrouchIdle_20
       rect:
         serializedVersion: 2
-        x: 684
-        y: 786
-        width: 51
-        height: 55
+        x: 640
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -933,12 +933,12 @@ TextureImporter:
       name: CrouchIdle_21
       rect:
         serializedVersion: 2
-        x: 812
-        y: 786
-        width: 51
-        height: 55
+        x: 768
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -955,12 +955,12 @@ TextureImporter:
       name: CrouchIdle_22
       rect:
         serializedVersion: 2
-        x: 940
-        y: 786
-        width: 52
-        height: 58
+        x: 896
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -977,12 +977,12 @@ TextureImporter:
       name: CrouchIdle_23
       rect:
         serializedVersion: 2
-        x: 1068
-        y: 786
-        width: 52
-        height: 54
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -999,12 +999,12 @@ TextureImporter:
       name: CrouchIdle_24
       rect:
         serializedVersion: 2
-        x: 1087
-        y: 837
-        width: 7
-        height: 7
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1021,12 +1021,12 @@ TextureImporter:
       name: CrouchIdle_25
       rect:
         serializedVersion: 2
-        x: 1196
-        y: 786
-        width: 51
-        height: 61
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1043,12 +1043,12 @@ TextureImporter:
       name: CrouchIdle_26
       rect:
         serializedVersion: 2
-        x: 1324
-        y: 786
-        width: 51
-        height: 54
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1065,12 +1065,12 @@ TextureImporter:
       name: CrouchIdle_27
       rect:
         serializedVersion: 2
-        x: 1338
-        y: 834
-        width: 11
-        height: 11
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1087,12 +1087,12 @@ TextureImporter:
       name: CrouchIdle_28
       rect:
         serializedVersion: 2
-        x: 1452
-        y: 787
-        width: 51
-        height: 52
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1109,12 +1109,12 @@ TextureImporter:
       name: CrouchIdle_29
       rect:
         serializedVersion: 2
-        x: 1463
-        y: 830
-        width: 15
-        height: 15
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1131,12 +1131,12 @@ TextureImporter:
       name: CrouchIdle_30
       rect:
         serializedVersion: 2
-        x: 1580
-        y: 787
-        width: 51
-        height: 52
+        x: 0
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1153,12 +1153,12 @@ TextureImporter:
       name: CrouchIdle_31
       rect:
         serializedVersion: 2
-        x: 1708
-        y: 787
-        width: 51
-        height: 52
+        x: 128
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1175,12 +1175,12 @@ TextureImporter:
       name: CrouchIdle_32
       rect:
         serializedVersion: 2
-        x: 1836
-        y: 787
-        width: 50
-        height: 52
+        x: 256
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1197,12 +1197,12 @@ TextureImporter:
       name: CrouchIdle_33
       rect:
         serializedVersion: 2
-        x: 36
-        y: 652
-        width: 40
-        height: 58
+        x: 384
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1219,12 +1219,12 @@ TextureImporter:
       name: CrouchIdle_34
       rect:
         serializedVersion: 2
-        x: 165
-        y: 652
-        width: 39
-        height: 58
+        x: 512
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1241,12 +1241,12 @@ TextureImporter:
       name: CrouchIdle_35
       rect:
         serializedVersion: 2
-        x: 293
-        y: 652
-        width: 39
-        height: 59
+        x: 640
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1263,12 +1263,12 @@ TextureImporter:
       name: CrouchIdle_36
       rect:
         serializedVersion: 2
-        x: 421
-        y: 652
-        width: 39
-        height: 59
+        x: 768
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1285,12 +1285,12 @@ TextureImporter:
       name: CrouchIdle_37
       rect:
         serializedVersion: 2
-        x: 549
-        y: 652
-        width: 39
-        height: 60
+        x: 896
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1307,12 +1307,12 @@ TextureImporter:
       name: CrouchIdle_38
       rect:
         serializedVersion: 2
-        x: 677
-        y: 652
-        width: 40
-        height: 60
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1329,12 +1329,12 @@ TextureImporter:
       name: CrouchIdle_39
       rect:
         serializedVersion: 2
-        x: 805
-        y: 651
-        width: 40
-        height: 61
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1351,12 +1351,12 @@ TextureImporter:
       name: CrouchIdle_40
       rect:
         serializedVersion: 2
-        x: 932
-        y: 651
-        width: 41
-        height: 63
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1373,12 +1373,12 @@ TextureImporter:
       name: CrouchIdle_41
       rect:
         serializedVersion: 2
-        x: 1060
-        y: 651
-        width: 41
-        height: 66
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1395,12 +1395,12 @@ TextureImporter:
       name: CrouchIdle_42
       rect:
         serializedVersion: 2
-        x: 1188
-        y: 651
-        width: 40
-        height: 68
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1417,12 +1417,12 @@ TextureImporter:
       name: CrouchIdle_43
       rect:
         serializedVersion: 2
-        x: 1316
-        y: 652
-        width: 40
-        height: 66
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1439,12 +1439,12 @@ TextureImporter:
       name: CrouchIdle_44
       rect:
         serializedVersion: 2
-        x: 1444
-        y: 652
-        width: 40
-        height: 65
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1461,12 +1461,12 @@ TextureImporter:
       name: CrouchIdle_45
       rect:
         serializedVersion: 2
-        x: 1572
-        y: 652
-        width: 40
-        height: 64
+        x: 0
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1483,12 +1483,12 @@ TextureImporter:
       name: CrouchIdle_46
       rect:
         serializedVersion: 2
-        x: 1700
-        y: 652
-        width: 40
-        height: 62
+        x: 128
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1505,12 +1505,12 @@ TextureImporter:
       name: CrouchIdle_47
       rect:
         serializedVersion: 2
-        x: 1828
-        y: 652
-        width: 40
-        height: 59
+        x: 256
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1527,12 +1527,12 @@ TextureImporter:
       name: CrouchIdle_48
       rect:
         serializedVersion: 2
-        x: 32
-        y: 534
-        width: 43
-        height: 58
+        x: 384
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1549,12 +1549,12 @@ TextureImporter:
       name: CrouchIdle_49
       rect:
         serializedVersion: 2
-        x: 160
-        y: 534
-        width: 43
-        height: 57
+        x: 512
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1571,12 +1571,12 @@ TextureImporter:
       name: CrouchIdle_50
       rect:
         serializedVersion: 2
-        x: 288
-        y: 535
-        width: 43
-        height: 57
+        x: 640
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1593,12 +1593,12 @@ TextureImporter:
       name: CrouchIdle_51
       rect:
         serializedVersion: 2
-        x: 416
-        y: 535
-        width: 43
-        height: 57
+        x: 768
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1615,12 +1615,12 @@ TextureImporter:
       name: CrouchIdle_52
       rect:
         serializedVersion: 2
-        x: 543
-        y: 534
-        width: 44
-        height: 59
+        x: 896
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1637,12 +1637,12 @@ TextureImporter:
       name: CrouchIdle_53
       rect:
         serializedVersion: 2
-        x: 671
-        y: 534
-        width: 45
-        height: 60
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1659,12 +1659,12 @@ TextureImporter:
       name: CrouchIdle_54
       rect:
         serializedVersion: 2
-        x: 799
-        y: 534
-        width: 45
-        height: 60
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1681,12 +1681,12 @@ TextureImporter:
       name: CrouchIdle_55
       rect:
         serializedVersion: 2
-        x: 927
-        y: 534
-        width: 45
-        height: 61
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1703,12 +1703,12 @@ TextureImporter:
       name: CrouchIdle_56
       rect:
         serializedVersion: 2
-        x: 1055
-        y: 534
-        width: 44
-        height: 61
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1725,12 +1725,12 @@ TextureImporter:
       name: CrouchIdle_57
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 534
-        width: 43
-        height: 61
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1747,12 +1747,12 @@ TextureImporter:
       name: CrouchIdle_58
       rect:
         serializedVersion: 2
-        x: 1312
-        y: 534
-        width: 43
-        height: 61
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1769,12 +1769,12 @@ TextureImporter:
       name: CrouchIdle_59
       rect:
         serializedVersion: 2
-        x: 1440
-        y: 534
-        width: 43
-        height: 61
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1791,12 +1791,12 @@ TextureImporter:
       name: CrouchIdle_60
       rect:
         serializedVersion: 2
-        x: 1568
-        y: 534
-        width: 43
-        height: 60
+        x: 0
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1813,12 +1813,12 @@ TextureImporter:
       name: CrouchIdle_61
       rect:
         serializedVersion: 2
-        x: 1696
-        y: 534
-        width: 43
-        height: 59
+        x: 128
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1835,12 +1835,12 @@ TextureImporter:
       name: CrouchIdle_62
       rect:
         serializedVersion: 2
-        x: 1824
-        y: 534
-        width: 43
-        height: 58
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1857,12 +1857,12 @@ TextureImporter:
       name: CrouchIdle_63
       rect:
         serializedVersion: 2
-        x: 22
-        y: 418
-        width: 54
-        height: 54
+        x: 384
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1879,12 +1879,12 @@ TextureImporter:
       name: CrouchIdle_64
       rect:
         serializedVersion: 2
-        x: 150
-        y: 419
-        width: 54
-        height: 53
+        x: 512
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1901,12 +1901,12 @@ TextureImporter:
       name: CrouchIdle_65
       rect:
         serializedVersion: 2
-        x: 278
-        y: 419
-        width: 54
-        height: 53
+        x: 640
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1923,12 +1923,12 @@ TextureImporter:
       name: CrouchIdle_66
       rect:
         serializedVersion: 2
-        x: 406
-        y: 419
-        width: 55
-        height: 53
+        x: 768
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1945,12 +1945,12 @@ TextureImporter:
       name: CrouchIdle_67
       rect:
         serializedVersion: 2
-        x: 534
-        y: 419
-        width: 55
-        height: 54
+        x: 896
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1967,12 +1967,12 @@ TextureImporter:
       name: CrouchIdle_68
       rect:
         serializedVersion: 2
-        x: 661
-        y: 418
-        width: 56
-        height: 55
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1989,12 +1989,12 @@ TextureImporter:
       name: CrouchIdle_69
       rect:
         serializedVersion: 2
-        x: 789
-        y: 418
-        width: 56
-        height: 55
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2011,12 +2011,12 @@ TextureImporter:
       name: CrouchIdle_70
       rect:
         serializedVersion: 2
-        x: 917
-        y: 418
-        width: 56
-        height: 56
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2033,12 +2033,12 @@ TextureImporter:
       name: CrouchIdle_71
       rect:
         serializedVersion: 2
-        x: 1045
-        y: 418
-        width: 56
-        height: 56
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2055,12 +2055,12 @@ TextureImporter:
       name: CrouchIdle_72
       rect:
         serializedVersion: 2
-        x: 1173
-        y: 418
-        width: 56
-        height: 56
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2077,12 +2077,12 @@ TextureImporter:
       name: CrouchIdle_73
       rect:
         serializedVersion: 2
-        x: 1302
-        y: 419
-        width: 55
-        height: 55
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2099,12 +2099,12 @@ TextureImporter:
       name: CrouchIdle_74
       rect:
         serializedVersion: 2
-        x: 1430
-        y: 419
-        width: 54
-        height: 54
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2121,12 +2121,12 @@ TextureImporter:
       name: CrouchIdle_75
       rect:
         serializedVersion: 2
-        x: 1558
-        y: 418
-        width: 54
-        height: 55
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2143,12 +2143,12 @@ TextureImporter:
       name: CrouchIdle_76
       rect:
         serializedVersion: 2
-        x: 1686
-        y: 418
-        width: 54
-        height: 55
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2165,12 +2165,12 @@ TextureImporter:
       name: CrouchIdle_77
       rect:
         serializedVersion: 2
-        x: 1814
-        y: 418
-        width: 54
-        height: 54
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2187,12 +2187,12 @@ TextureImporter:
       name: CrouchIdle_78
       rect:
         serializedVersion: 2
-        x: 36
-        y: 291
-        width: 50
-        height: 60
+        x: 384
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2209,12 +2209,12 @@ TextureImporter:
       name: CrouchIdle_79
       rect:
         serializedVersion: 2
-        x: 165
-        y: 291
-        width: 50
-        height: 61
+        x: 512
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2231,12 +2231,12 @@ TextureImporter:
       name: CrouchIdle_80
       rect:
         serializedVersion: 2
-        x: 293
-        y: 290
-        width: 50
-        height: 62
+        x: 640
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2253,12 +2253,12 @@ TextureImporter:
       name: CrouchIdle_81
       rect:
         serializedVersion: 2
-        x: 421
-        y: 291
-        width: 50
-        height: 61
+        x: 768
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2275,12 +2275,12 @@ TextureImporter:
       name: CrouchIdle_82
       rect:
         serializedVersion: 2
-        x: 549
-        y: 291
-        width: 50
-        height: 61
+        x: 896
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2297,12 +2297,12 @@ TextureImporter:
       name: CrouchIdle_83
       rect:
         serializedVersion: 2
-        x: 677
-        y: 291
-        width: 50
-        height: 61
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2319,12 +2319,12 @@ TextureImporter:
       name: CrouchIdle_84
       rect:
         serializedVersion: 2
-        x: 804
-        y: 291
-        width: 51
-        height: 61
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2341,12 +2341,12 @@ TextureImporter:
       name: CrouchIdle_85
       rect:
         serializedVersion: 2
-        x: 932
-        y: 291
-        width: 52
-        height: 61
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2363,12 +2363,12 @@ TextureImporter:
       name: CrouchIdle_86
       rect:
         serializedVersion: 2
-        x: 1060
-        y: 290
-        width: 52
-        height: 61
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2385,12 +2385,12 @@ TextureImporter:
       name: CrouchIdle_87
       rect:
         serializedVersion: 2
-        x: 1188
-        y: 290
-        width: 51
-        height: 61
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2407,12 +2407,12 @@ TextureImporter:
       name: CrouchIdle_88
       rect:
         serializedVersion: 2
-        x: 1316
-        y: 290
-        width: 52
-        height: 59
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2429,12 +2429,12 @@ TextureImporter:
       name: CrouchIdle_89
       rect:
         serializedVersion: 2
-        x: 1444
-        y: 290
-        width: 52
-        height: 60
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2451,12 +2451,12 @@ TextureImporter:
       name: CrouchIdle_90
       rect:
         serializedVersion: 2
-        x: 1572
-        y: 291
-        width: 51
-        height: 59
+        x: 0
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2473,12 +2473,12 @@ TextureImporter:
       name: CrouchIdle_91
       rect:
         serializedVersion: 2
-        x: 1700
-        y: 291
-        width: 51
-        height: 60
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2495,12 +2495,12 @@ TextureImporter:
       name: CrouchIdle_92
       rect:
         serializedVersion: 2
-        x: 1828
-        y: 291
-        width: 51
-        height: 60
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2517,12 +2517,12 @@ TextureImporter:
       name: CrouchIdle_93
       rect:
         serializedVersion: 2
-        x: 54
-        y: 162
-        width: 41
-        height: 61
+        x: 384
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2539,12 +2539,12 @@ TextureImporter:
       name: CrouchIdle_94
       rect:
         serializedVersion: 2
-        x: 182
-        y: 162
-        width: 41
-        height: 62
+        x: 512
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2561,12 +2561,12 @@ TextureImporter:
       name: CrouchIdle_95
       rect:
         serializedVersion: 2
-        x: 310
-        y: 162
-        width: 41
-        height: 62
+        x: 640
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2583,12 +2583,12 @@ TextureImporter:
       name: CrouchIdle_96
       rect:
         serializedVersion: 2
-        x: 438
-        y: 162
-        width: 41
-        height: 63
+        x: 768
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2605,12 +2605,12 @@ TextureImporter:
       name: CrouchIdle_97
       rect:
         serializedVersion: 2
-        x: 566
-        y: 162
-        width: 41
-        height: 63
+        x: 896
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2627,12 +2627,12 @@ TextureImporter:
       name: CrouchIdle_98
       rect:
         serializedVersion: 2
-        x: 694
-        y: 162
-        width: 41
-        height: 63
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2649,12 +2649,12 @@ TextureImporter:
       name: CrouchIdle_99
       rect:
         serializedVersion: 2
-        x: 821
-        y: 162
-        width: 42
-        height: 64
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2671,12 +2671,12 @@ TextureImporter:
       name: CrouchIdle_100
       rect:
         serializedVersion: 2
-        x: 949
-        y: 162
-        width: 42
-        height: 64
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2693,12 +2693,12 @@ TextureImporter:
       name: CrouchIdle_101
       rect:
         serializedVersion: 2
-        x: 1078
-        y: 162
-        width: 42
-        height: 62
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2715,12 +2715,12 @@ TextureImporter:
       name: CrouchIdle_102
       rect:
         serializedVersion: 2
-        x: 1206
-        y: 162
-        width: 42
-        height: 61
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2737,12 +2737,12 @@ TextureImporter:
       name: CrouchIdle_103
       rect:
         serializedVersion: 2
-        x: 1334
-        y: 162
-        width: 42
-        height: 59
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2759,12 +2759,12 @@ TextureImporter:
       name: CrouchIdle_104
       rect:
         serializedVersion: 2
-        x: 1462
-        y: 162
-        width: 42
-        height: 59
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2781,12 +2781,12 @@ TextureImporter:
       name: CrouchIdle_105
       rect:
         serializedVersion: 2
-        x: 1590
-        y: 162
-        width: 42
-        height: 59
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2803,12 +2803,12 @@ TextureImporter:
       name: CrouchIdle_106
       rect:
         serializedVersion: 2
-        x: 1718
-        y: 162
-        width: 42
-        height: 60
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2825,12 +2825,12 @@ TextureImporter:
       name: CrouchIdle_107
       rect:
         serializedVersion: 2
-        x: 1846
-        y: 162
-        width: 41
-        height: 61
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2847,12 +2847,12 @@ TextureImporter:
       name: CrouchIdle_108
       rect:
         serializedVersion: 2
-        x: 55
-        y: 28
-        width: 44
-        height: 59
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2869,12 +2869,12 @@ TextureImporter:
       name: CrouchIdle_109
       rect:
         serializedVersion: 2
-        x: 183
-        y: 28
-        width: 44
-        height: 59
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2891,12 +2891,12 @@ TextureImporter:
       name: CrouchIdle_110
       rect:
         serializedVersion: 2
-        x: 311
-        y: 27
-        width: 44
-        height: 61
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2913,12 +2913,12 @@ TextureImporter:
       name: CrouchIdle_111
       rect:
         serializedVersion: 2
-        x: 439
-        y: 27
-        width: 45
-        height: 61
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2935,12 +2935,12 @@ TextureImporter:
       name: CrouchIdle_112
       rect:
         serializedVersion: 2
-        x: 567
-        y: 27
-        width: 45
-        height: 63
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2957,12 +2957,12 @@ TextureImporter:
       name: CrouchIdle_113
       rect:
         serializedVersion: 2
-        x: 695
-        y: 27
-        width: 45
-        height: 63
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2979,12 +2979,12 @@ TextureImporter:
       name: CrouchIdle_114
       rect:
         serializedVersion: 2
-        x: 823
-        y: 27
-        width: 45
-        height: 64
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3001,12 +3001,12 @@ TextureImporter:
       name: CrouchIdle_115
       rect:
         serializedVersion: 2
-        x: 951
-        y: 27
-        width: 45
-        height: 65
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3023,12 +3023,12 @@ TextureImporter:
       name: CrouchIdle_116
       rect:
         serializedVersion: 2
-        x: 1079
-        y: 27
-        width: 45
-        height: 65
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3045,12 +3045,12 @@ TextureImporter:
       name: CrouchIdle_117
       rect:
         serializedVersion: 2
-        x: 1207
-        y: 27
-        width: 45
-        height: 64
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3067,12 +3067,12 @@ TextureImporter:
       name: CrouchIdle_118
       rect:
         serializedVersion: 2
-        x: 1335
-        y: 27
-        width: 44
-        height: 61
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3089,12 +3089,12 @@ TextureImporter:
       name: CrouchIdle_119
       rect:
         serializedVersion: 2
-        x: 1463
-        y: 27
-        width: 44
-        height: 61
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3107,77 +3107,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: CrouchIdle_120
-      rect:
-        serializedVersion: 2
-        x: 1591
-        y: 27
-        width: 44
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e04063276fb45ee0800000000000000
-      internalID: -1273182344942960408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CrouchIdle_121
-      rect:
-        serializedVersion: 2
-        x: 1719
-        y: 27
-        width: 44
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98d5cca5817e131c0800000000000000
-      internalID: -4525582058742063735
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CrouchIdle_122
-      rect:
-        serializedVersion: 2
-        x: 1847
-        y: 28
-        width: 44
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de52f5183e0273fb0800000000000000
-      internalID: -4668226327246068243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f512f9bc5e00205458203a516ead53d9
     internalID: 0
     vertices: []
     indices: 
@@ -3185,7 +3119,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       CrouchIdle_0: 2330147259476030876
       CrouchIdle_1: 1221216068662974698
@@ -3212,9 +3148,6 @@ TextureImporter:
       CrouchIdle_118: 5002143410372903843
       CrouchIdle_119: 5376858112429219551
       CrouchIdle_12: 6728402942346673103
-      CrouchIdle_120: -1273182344942960408
-      CrouchIdle_121: -4525582058742063735
-      CrouchIdle_122: -4668226327246068243
       CrouchIdle_13: -5052913808067584555
       CrouchIdle_14: -4047812512271616806
       CrouchIdle_15: 2111964624343258432
