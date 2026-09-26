@@ -49,7 +49,7 @@ AnimationClip:
     - time: 1.0833334
       value: {fileID: 638149518380242377, guid: 3c56782aa130c874cbdfbc498dceac57, type: 3}
     - time: 1.1666666
-      value: {fileID: 6350901088042266490, guid: 3c56782aa130c874cbdfbc498dceac57, type: 3}
+      value: {fileID: -7052446412811683985, guid: 3c56782aa130c874cbdfbc498dceac57, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -87,7 +87,7 @@ AnimationClip:
     - {fileID: 6002176669018939729, guid: 3c56782aa130c874cbdfbc498dceac57, type: 3}
     - {fileID: 4947846995872746839, guid: 3c56782aa130c874cbdfbc498dceac57, type: 3}
     - {fileID: 638149518380242377, guid: 3c56782aa130c874cbdfbc498dceac57, type: 3}
-    - {fileID: 6350901088042266490, guid: 3c56782aa130c874cbdfbc498dceac57, type: 3}
+    - {fileID: -7052446412811683985, guid: 3c56782aa130c874cbdfbc498dceac57, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -112,4 +112,11 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 1.1666666
+    functionName: FimDaAcao
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
