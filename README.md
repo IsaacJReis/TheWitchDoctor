@@ -6,7 +6,7 @@ Jogo criado para a prova do professor Murilo Borato Materia Inteligencia Artific
 
 O Jogo estará publicado no Unity Play  
 
-link do jogo: 
+link do jogo:  https://play.unity.com/en/games/afee315d-337c-4207-b6dd-0aa39ede2fec/the-witcher-doctor
 
 O jogo foi totalmente usado na unity 
 
