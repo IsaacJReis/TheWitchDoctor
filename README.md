@@ -34,6 +34,15 @@ No canto superior ainda mantem o botão que re direciona ao menu principal.
 Para as animações foi utilizado no mapa de estado o bleend tree, onde eu conseguia coloca mais de uma animação em apenas um estado e defir parametros para que cada uma seja chamada e alterada.
 
 Mapa de Estado do Player:
+<img width="741" height="357" alt="Image" src="https://github.com/user-attachments/assets/780fc95d-9512-45a1-a6ed-980397ac441a" />
+
+Para uma melhor organização foi preferivel separar em: estados de ataque ficavam a cima e as de movimentações a baixo
+
+Estados de Ataque:
+
+
+
+Estados de Movimentações
 
 
 
