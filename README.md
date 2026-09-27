@@ -33,6 +33,13 @@ No canto superior ainda mantem o botão que re direciona ao menu principal.
 
 Para as animações foi utilizado no mapa de estado o bleend tree, onde eu conseguia coloca mais de uma animação em apenas um estado e defir parametros para que cada uma seja chamada e alterada.
 
+Animações do Bleend Tree:
+
+<img width="661" height="482" alt="Image" src="https://github.com/user-attachments/assets/8b6b2abc-8ecb-404f-b0d0-c2d8790fab82" />
+
+
+Parametros das Animações: 
+
 Mapa de Estado do Player:
 <img width="741" height="357" alt="Image" src="https://github.com/user-attachments/assets/780fc95d-9512-45a1-a6ed-980397ac441a" />
 
