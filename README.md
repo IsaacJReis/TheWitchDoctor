@@ -39,10 +39,11 @@ Mapa de Estado do Player:
 Para uma melhor organização foi preferivel separar em: estados de ataque ficavam a cima e as de movimentações a baixo
 
 Estados de Ataque:
+<img width="1153" height="387" alt="Image" src="https://github.com/user-attachments/assets/01c42caf-8cda-48eb-8cfd-9d7aa1f39c65" />
 
 
 
-Estados de Movimentações
+Estados de Movimentações:
 
 
 
