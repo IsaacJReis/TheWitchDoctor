@@ -126,10 +126,10 @@ public class PlayerController : MonoBehaviour
     private void Atacar(string trigger, int dano)
     {
         animator.SetTrigger(trigger);
-        StartCoroutine(AplicarDanoComAtraso(dano));
+        StartCoroutine(AplicarDano(dano));
     }
 
-    private System.Collections.IEnumerator AplicarDanoComAtraso(int dano)
+    private System.Collections.IEnumerator AplicarDano(int dano)
     {
         yield return new WaitForSeconds(delayImpacto);
 

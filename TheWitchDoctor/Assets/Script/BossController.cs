@@ -124,7 +124,7 @@ public class BossController : MonoBehaviour
     private System.Collections.IEnumerator FicarVulneravel()
     {
         estadoAtual = Estado.Vulneravel;
-        // Aqui o boss fica parado, exposto para o player atacar
+        //para o Boss ficar parado durante 3 segundos
         yield return new WaitForSeconds(duracaoVulneravel);
 
         estadoAtual = Estado.Pausado;
@@ -138,7 +138,7 @@ public class BossController : MonoBehaviour
          StopAllCoroutines();
         animator.SetBool("IsWalking", false);
         animator.SetTrigger("Die");
-        Debug.Log("Boss morreu, trigger Die disparado");
+        
         this.enabled = false;
         
        
