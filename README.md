@@ -39,6 +39,7 @@ Animações do Bleend Tree:
 
 
 Parametros das Animações: 
+<img width="529" height="530" alt="Image" src="https://github.com/user-attachments/assets/fe01a6ad-9a0e-4fa0-9179-91f72308b3c8" />
 
 Mapa de Estado do Player:
 <img width="741" height="357" alt="Image" src="https://github.com/user-attachments/assets/780fc95d-9512-45a1-a6ed-980397ac441a" />
