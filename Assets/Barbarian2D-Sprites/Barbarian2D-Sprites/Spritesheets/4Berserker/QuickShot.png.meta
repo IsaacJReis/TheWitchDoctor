@@ -1,0 +1,6411 @@
+fileFormatVersion: 2
+guid: 6b53bad779185804d8b908a6ef4d2da4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4663422758827269091
+    second: QuickShot_0
+  - first:
+      213: 5937436321594734279
+    second: QuickShot_1
+  - first:
+      213: -7639424048802406080
+    second: QuickShot_2
+  - first:
+      213: -2113786990606905839
+    second: QuickShot_3
+  - first:
+      213: 7152573530155021966
+    second: QuickShot_4
+  - first:
+      213: 4882954507433036670
+    second: QuickShot_5
+  - first:
+      213: -494903718755200022
+    second: QuickShot_6
+  - first:
+      213: -5360484405902875911
+    second: QuickShot_7
+  - first:
+      213: 306954781050006547
+    second: QuickShot_8
+  - first:
+      213: -4543049198717773049
+    second: QuickShot_9
+  - first:
+      213: -5886783027154925350
+    second: QuickShot_10
+  - first:
+      213: -8037448172941608620
+    second: QuickShot_11
+  - first:
+      213: 2399899290402242031
+    second: QuickShot_12
+  - first:
+      213: -821086200321038930
+    second: QuickShot_13
+  - first:
+      213: -6392717461532596683
+    second: QuickShot_14
+  - first:
+      213: -4091626756359451178
+    second: QuickShot_15
+  - first:
+      213: 7544387700751135698
+    second: QuickShot_16
+  - first:
+      213: 3422709768975858728
+    second: QuickShot_17
+  - first:
+      213: -2679126599810128368
+    second: QuickShot_18
+  - first:
+      213: -5859189564572199201
+    second: QuickShot_19
+  - first:
+      213: -3076885296310698543
+    second: QuickShot_20
+  - first:
+      213: -3187269763358361590
+    second: QuickShot_21
+  - first:
+      213: 5510800508543324631
+    second: QuickShot_22
+  - first:
+      213: 6594420441620476096
+    second: QuickShot_23
+  - first:
+      213: -140299765590664215
+    second: QuickShot_24
+  - first:
+      213: 522313897170766498
+    second: QuickShot_25
+  - first:
+      213: 527045307321829525
+    second: QuickShot_26
+  - first:
+      213: 7008276929162477134
+    second: QuickShot_27
+  - first:
+      213: 8029957404840500506
+    second: QuickShot_28
+  - first:
+      213: -9094456816502879142
+    second: QuickShot_29
+  - first:
+      213: 967720979432044679
+    second: QuickShot_30
+  - first:
+      213: -1631630327931929440
+    second: QuickShot_31
+  - first:
+      213: -6587533784544558496
+    second: QuickShot_32
+  - first:
+      213: 6693798415843932148
+    second: QuickShot_33
+  - first:
+      213: -7164662361996540295
+    second: QuickShot_34
+  - first:
+      213: -4627105220110075424
+    second: QuickShot_35
+  - first:
+      213: -3464810660338603437
+    second: QuickShot_36
+  - first:
+      213: -8629083361855234077
+    second: QuickShot_37
+  - first:
+      213: -6273242014815574261
+    second: QuickShot_38
+  - first:
+      213: 3855430609950853789
+    second: QuickShot_39
+  - first:
+      213: -3207306101365011172
+    second: QuickShot_40
+  - first:
+      213: 2872713752358544532
+    second: QuickShot_41
+  - first:
+      213: -860099989719366359
+    second: QuickShot_42
+  - first:
+      213: -3449487313289375353
+    second: QuickShot_43
+  - first:
+      213: 7926961084622208810
+    second: QuickShot_44
+  - first:
+      213: -4907452269783575497
+    second: QuickShot_45
+  - first:
+      213: 6766768787995055629
+    second: QuickShot_46
+  - first:
+      213: -835023653297593565
+    second: QuickShot_47
+  - first:
+      213: -956876927940744055
+    second: QuickShot_48
+  - first:
+      213: -2255557263053572537
+    second: QuickShot_49
+  - first:
+      213: -4215713078859264777
+    second: QuickShot_50
+  - first:
+      213: -4743862771416287838
+    second: QuickShot_51
+  - first:
+      213: 1227267580810798555
+    second: QuickShot_52
+  - first:
+      213: -3077974803594929669
+    second: QuickShot_53
+  - first:
+      213: 6910118622296753332
+    second: QuickShot_54
+  - first:
+      213: 8556750621043171287
+    second: QuickShot_55
+  - first:
+      213: -4208050295827827596
+    second: QuickShot_56
+  - first:
+      213: 9007543894782029450
+    second: QuickShot_57
+  - first:
+      213: 549545730854754134
+    second: QuickShot_58
+  - first:
+      213: 2439253347436512890
+    second: QuickShot_59
+  - first:
+      213: -2976461430432085743
+    second: QuickShot_60
+  - first:
+      213: -5739685151923369990
+    second: QuickShot_61
+  - first:
+      213: 7176158920271660021
+    second: QuickShot_62
+  - first:
+      213: 6195006678956655820
+    second: QuickShot_63
+  - first:
+      213: -4284140792632659213
+    second: QuickShot_64
+  - first:
+      213: 5631866209548741799
+    second: QuickShot_65
+  - first:
+      213: -1646533009732306931
+    second: QuickShot_66
+  - first:
+      213: -4515374494178634289
+    second: QuickShot_67
+  - first:
+      213: 6136156047349518653
+    second: QuickShot_68
+  - first:
+      213: -3764289245507315805
+    second: QuickShot_69
+  - first:
+      213: 8488438796795909413
+    second: QuickShot_70
+  - first:
+      213: -4740354468715690111
+    second: QuickShot_71
+  - first:
+      213: -323938747413394767
+    second: QuickShot_72
+  - first:
+      213: -7802380714353751409
+    second: QuickShot_73
+  - first:
+      213: 4025508381686393733
+    second: QuickShot_74
+  - first:
+      213: -5330145620058738926
+    second: QuickShot_75
+  - first:
+      213: -5183973727228732326
+    second: QuickShot_76
+  - first:
+      213: 1814969039994239732
+    second: QuickShot_77
+  - first:
+      213: 1475900868198787939
+    second: QuickShot_78
+  - first:
+      213: -1459920444352052706
+    second: QuickShot_79
+  - first:
+      213: 427591778468302956
+    second: QuickShot_80
+  - first:
+      213: -546311743145327998
+    second: QuickShot_81
+  - first:
+      213: -286332023357047963
+    second: QuickShot_82
+  - first:
+      213: -53651982615540625
+    second: QuickShot_83
+  - first:
+      213: -2619094693765873229
+    second: QuickShot_84
+  - first:
+      213: 7125478701673664425
+    second: QuickShot_85
+  - first:
+      213: 8503393039933530262
+    second: QuickShot_86
+  - first:
+      213: 5439719144304298302
+    second: QuickShot_87
+  - first:
+      213: 3258032201521187366
+    second: QuickShot_88
+  - first:
+      213: -4883277999804925725
+    second: QuickShot_89
+  - first:
+      213: -7808014276683243614
+    second: QuickShot_90
+  - first:
+      213: 9024103796447871819
+    second: QuickShot_91
+  - first:
+      213: 112147319667655715
+    second: QuickShot_92
+  - first:
+      213: 1148909085103575452
+    second: QuickShot_93
+  - first:
+      213: -729570196823475648
+    second: QuickShot_94
+  - first:
+      213: 1613206016022590664
+    second: QuickShot_95
+  - first:
+      213: 6762398822748372837
+    second: QuickShot_96
+  - first:
+      213: -940081364158447998
+    second: QuickShot_97
+  - first:
+      213: 428830479633961971
+    second: QuickShot_98
+  - first:
+      213: 2192236091801253066
+    second: QuickShot_99
+  - first:
+      213: -4248034365076897926
+    second: QuickShot_100
+  - first:
+      213: -870685871550624524
+    second: QuickShot_101
+  - first:
+      213: 2360925815413731964
+    second: QuickShot_102
+  - first:
+      213: -3984501420176083499
+    second: QuickShot_103
+  - first:
+      213: 7927554781109221132
+    second: QuickShot_104
+  - first:
+      213: -1337273773765228464
+    second: QuickShot_105
+  - first:
+      213: -2779382357190387244
+    second: QuickShot_106
+  - first:
+      213: -4178612422379599720
+    second: QuickShot_107
+  - first:
+      213: -5676927283203814035
+    second: QuickShot_108
+  - first:
+      213: 6401571216696753346
+    second: QuickShot_109
+  - first:
+      213: -2725875262760573295
+    second: QuickShot_110
+  - first:
+      213: -6723440685786433775
+    second: QuickShot_111
+  - first:
+      213: 6339267996034277127
+    second: QuickShot_112
+  - first:
+      213: 4240414221817776343
+    second: QuickShot_113
+  - first:
+      213: -6650696383637296143
+    second: QuickShot_114
+  - first:
+      213: 1097953576235672065
+    second: QuickShot_115
+  - first:
+      213: -5670222929724887539
+    second: QuickShot_116
+  - first:
+      213: -6666246657850820916
+    second: QuickShot_117
+  - first:
+      213: 8827279032369696397
+    second: QuickShot_118
+  - first:
+      213: 8087792795345390637
+    second: QuickShot_119
+  - first:
+      213: -7636089221049534836
+    second: QuickShot_120
+  - first:
+      213: -6848033494850871633
+    second: QuickShot_121
+  - first:
+      213: 2235127094905655217
+    second: QuickShot_122
+  - first:
+      213: -5711054901669831731
+    second: QuickShot_123
+  - first:
+      213: -33987625155209786
+    second: QuickShot_124
+  - first:
+      213: 1285063116451789677
+    second: QuickShot_125
+  - first:
+      213: -823880669166520245
+    second: QuickShot_126
+  - first:
+      213: -7636261326286587152
+    second: QuickShot_127
+  - first:
+      213: 6501858261192887632
+    second: QuickShot_128
+  - first:
+      213: -1981531465952173858
+    second: QuickShot_129
+  - first:
+      213: 5956417473242502263
+    second: QuickShot_130
+  - first:
+      213: 85674646672001393
+    second: QuickShot_131
+  - first:
+      213: 7627306587315905369
+    second: QuickShot_132
+  - first:
+      213: 8284388600624362797
+    second: QuickShot_133
+  - first:
+      213: -6488350434259138029
+    second: QuickShot_134
+  - first:
+      213: -1115845983576333313
+    second: QuickShot_135
+  - first:
+      213: -3761788131064052020
+    second: QuickShot_136
+  - first:
+      213: -2913171243574341533
+    second: QuickShot_137
+  - first:
+      213: 5970035055246827028
+    second: QuickShot_138
+  - first:
+      213: 4735780756379795733
+    second: QuickShot_139
+  - first:
+      213: 650217041188608954
+    second: QuickShot_140
+  - first:
+      213: -4995852729404587383
+    second: QuickShot_141
+  - first:
+      213: -4144845762279351712
+    second: QuickShot_142
+  - first:
+      213: 7458872853335220072
+    second: QuickShot_143
+  - first:
+      213: -2943066299427661165
+    second: QuickShot_144
+  - first:
+      213: -3148590463499879392
+    second: QuickShot_145
+  - first:
+      213: -2561121364231165405
+    second: QuickShot_146
+  - first:
+      213: -5766876387431340388
+    second: QuickShot_147
+  - first:
+      213: -1136269079348963003
+    second: QuickShot_148
+  - first:
+      213: 8140022260908316135
+    second: QuickShot_149
+  - first:
+      213: -8901449699154710431
+    second: QuickShot_150
+  - first:
+      213: 7234233647727683860
+    second: QuickShot_151
+  - first:
+      213: 7525431765899371031
+    second: QuickShot_152
+  - first:
+      213: 5293979917007342872
+    second: QuickShot_153
+  - first:
+      213: -7732121544879001066
+    second: QuickShot_154
+  - first:
+      213: -5392736951384281118
+    second: QuickShot_155
+  - first:
+      213: 1159195844239496795
+    second: QuickShot_156
+  - first:
+      213: 2900974894550293757
+    second: QuickShot_157
+  - first:
+      213: 4624189138477812063
+    second: QuickShot_158
+  - first:
+      213: -8871148740486186786
+    second: QuickShot_159
+  - first:
+      213: -5440853362048573046
+    second: QuickShot_160
+  - first:
+      213: 1194489343516984824
+    second: QuickShot_161
+  - first:
+      213: -8658932046880489908
+    second: QuickShot_162
+  - first:
+      213: 5932017472790157205
+    second: QuickShot_163
+  - first:
+      213: 6137147534568414440
+    second: QuickShot_164
+  - first:
+      213: -5856432901841490469
+    second: QuickShot_165
+  - first:
+      213: 4175671488581422901
+    second: QuickShot_166
+  - first:
+      213: 8592174994866981320
+    second: QuickShot_167
+  - first:
+      213: 5308196608462583459
+    second: QuickShot_168
+  - first:
+      213: 8610096151085559526
+    second: QuickShot_169
+  - first:
+      213: 2472204947411483552
+    second: QuickShot_170
+  - first:
+      213: 5016378875599331396
+    second: QuickShot_171
+  - first:
+      213: 8939391142570511966
+    second: QuickShot_172
+  - first:
+      213: -5028564159689081536
+    second: QuickShot_173
+  - first:
+      213: -8368205775988063184
+    second: QuickShot_174
+  - first:
+      213: -1045815035881332720
+    second: QuickShot_175
+  - first:
+      213: -3866177699588660930
+    second: QuickShot_176
+  - first:
+      213: 5475186603480627003
+    second: QuickShot_177
+  - first:
+      213: 3239900604228157909
+    second: QuickShot_178
+  - first:
+      213: -8440387245237444376
+    second: QuickShot_179
+  - first:
+      213: -660478119102347964
+    second: QuickShot_180
+  - first:
+      213: -2288502495910398272
+    second: QuickShot_181
+  - first:
+      213: 2583506996511546917
+    second: QuickShot_182
+  - first:
+      213: -3192638872342416573
+    second: QuickShot_183
+  - first:
+      213: 5258376969086264765
+    second: QuickShot_184
+  - first:
+      213: 4315900626211837955
+    second: QuickShot_185
+  - first:
+      213: -6865902121024891198
+    second: QuickShot_186
+  - first:
+      213: 8772425171540792932
+    second: QuickShot_187
+  - first:
+      213: 7330332358915714016
+    second: QuickShot_188
+  - first:
+      213: -6294005604861024132
+    second: QuickShot_189
+  - first:
+      213: 7218376511279250452
+    second: QuickShot_190
+  - first:
+      213: -4312947650992189467
+    second: QuickShot_191
+  - first:
+      213: -5199956556714303267
+    second: QuickShot_192
+  - first:
+      213: 8952594584081657855
+    second: QuickShot_193
+  - first:
+      213: -7621845547400730385
+    second: QuickShot_194
+  - first:
+      213: 336324605904762005
+    second: QuickShot_195
+  - first:
+      213: -3320900373251626613
+    second: QuickShot_196
+  - first:
+      213: 7012878355275338724
+    second: QuickShot_197
+  - first:
+      213: -5789802408792565980
+    second: QuickShot_198
+  - first:
+      213: -6247940993153872349
+    second: QuickShot_199
+  - first:
+      213: -2409947453783316775
+    second: QuickShot_200
+  - first:
+      213: -1149753295031188552
+    second: QuickShot_201
+  - first:
+      213: -5527944555053481692
+    second: QuickShot_202
+  - first:
+      213: 8177430199067054349
+    second: QuickShot_203
+  - first:
+      213: -8456152093500968166
+    second: QuickShot_204
+  - first:
+      213: -3371741063715473850
+    second: QuickShot_205
+  - first:
+      213: -2376975163622850925
+    second: QuickShot_206
+  - first:
+      213: -2876916620947913648
+    second: QuickShot_207
+  - first:
+      213: 3925454308383690120
+    second: QuickShot_208
+  - first:
+      213: -7052251343068503655
+    second: QuickShot_209
+  - first:
+      213: -6475364858945986560
+    second: QuickShot_210
+  - first:
+      213: -1699583720061090693
+    second: QuickShot_211
+  - first:
+      213: -962366330712282330
+    second: QuickShot_212
+  - first:
+      213: -8637121588605066070
+    second: QuickShot_213
+  - first:
+      213: 8338703316591967053
+    second: QuickShot_214
+  - first:
+      213: -5854382449450304236
+    second: QuickShot_215
+  - first:
+      213: -2587294696942285475
+    second: QuickShot_216
+  - first:
+      213: -8551816685105131483
+    second: QuickShot_217
+  - first:
+      213: 228606346086922253
+    second: QuickShot_218
+  - first:
+      213: -3788230441686227011
+    second: QuickShot_219
+  - first:
+      213: -7366122796538386924
+    second: QuickShot_220
+  - first:
+      213: 5419352030246199332
+    second: QuickShot_221
+  - first:
+      213: -6810575008872864641
+    second: QuickShot_222
+  - first:
+      213: -1568897330326788306
+    second: QuickShot_223
+  - first:
+      213: 119182550811391025
+    second: QuickShot_224
+  - first:
+      213: -9087950104820709255
+    second: QuickShot_225
+  - first:
+      213: -7567466501458092347
+    second: QuickShot_226
+  - first:
+      213: -5516522895737312769
+    second: QuickShot_227
+  - first:
+      213: -3860265407531371352
+    second: QuickShot_228
+  - first:
+      213: 7930726362479983760
+    second: QuickShot_229
+  - first:
+      213: -2982068700902536442
+    second: QuickShot_230
+  - first:
+      213: 3206814270939844393
+    second: QuickShot_231
+  - first:
+      213: -56798745988654370
+    second: QuickShot_232
+  - first:
+      213: -2001116698891921164
+    second: QuickShot_233
+  - first:
+      213: 5336941669923155410
+    second: QuickShot_234
+  - first:
+      213: -8278647300255557617
+    second: QuickShot_235
+  - first:
+      213: 6192009438536483169
+    second: QuickShot_236
+  - first:
+      213: -3943879918160552431
+    second: QuickShot_237
+  - first:
+      213: -1700920038310565109
+    second: QuickShot_238
+  - first:
+      213: -1886905522002150653
+    second: QuickShot_239
+  - first:
+      213: -4372841750453330375
+    second: QuickShot_240
+  - first:
+      213: 1847396499436785438
+    second: QuickShot_241
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QuickShot_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 924
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb1f519a4ec7b040800000000000000
+      internalID: 4663422758827269091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 919
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6f72960e2066250800000000000000
+      internalID: 5937436321594734279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 910
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0416e829d405bf590800000000000000
+      internalID: -7639424048802406080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 908
+        width: 109
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e880e6ee15aa2e0800000000000000
+      internalID: -2113786990606905839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 906
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8670cecabb034360800000000000000
+      internalID: 7152573530155021966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 904
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b40f5e04db3c340800000000000000
+      internalID: 4882954507433036670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 974
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3939d90bfb129f0800000000000000
+      internalID: -494903718755200022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 904
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2632a75dbbb95b0800000000000000
+      internalID: -5360484405902875911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_8
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 904
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ce79e3fb5824400800000000000000
+      internalID: 306954781050006547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 905
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bdd49e2d8d3f0c0800000000000000
+      internalID: -4543049198717773049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_10
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 926
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8c1acb602fd4ea0800000000000000
+      internalID: -5886783027154925350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_11
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 970
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459f33f887f357090800000000000000
+      internalID: -8037448172941608620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_12
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 971
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed332d70b72e4120800000000000000
+      internalID: 2399899290402242031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_13
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 917
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5a3eb737aea94f0800000000000000
+      internalID: -821086200321038930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_14
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 928
+        width: 110
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536a9ebb6518847a0800000000000000
+      internalID: -6392717461532596683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_15
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 928
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd06b9b42f9737c0800000000000000
+      internalID: -4091626756359451178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_16
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 930
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3f81754ac03b860800000000000000
+      internalID: 7544387700751135698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_17
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 936
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb01d8668ef7f20800000000000000
+      internalID: 3422709768975858728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_18
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 917
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01664065d84d1dad0800000000000000
+      internalID: -2679126599810128368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_19
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 953
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd69ff3622affaea0800000000000000
+      internalID: -5859189564572199201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_20
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 957
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd37c20025bc45d0800000000000000
+      internalID: -3076885296310698543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_21
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 950
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a087eaf790b84c3d0800000000000000
+      internalID: -3187269763358361590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_22
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 933
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d154c37ddb4a7c40800000000000000
+      internalID: 5510800508543324631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_23
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 933
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0fc52f376148b50800000000000000
+      internalID: 6594420441620476096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_24
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 937
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebd5e54b1e8d0ef0800000000000000
+      internalID: -140299765590664215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_25
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 931
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa0d1ed8b1af3700800000000000000
+      internalID: 522313897170766498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_26
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 939
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59844732ae0705700800000000000000
+      internalID: 527045307321829525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 920
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e7b425cb6624160800000000000000
+      internalID: 7008276929162477134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_28
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 907
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d190517b3207f60800000000000000
+      internalID: 8029957404840500506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_29
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 915
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c473bb5bff9c180800000000000000
+      internalID: -9094456816502879142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_30
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 924
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887db48a190e6d00800000000000000
+      internalID: 967720979432044679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_31
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 910
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acfcda8cd84b59e0800000000000000
+      internalID: -1631630327931929440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_32
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 912
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062465adce06494a0800000000000000
+      internalID: -6587533784544558496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_33
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 908
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73376a13625ec50800000000000000
+      internalID: 6693798415843932148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 785
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976c591ba81029c90800000000000000
+      internalID: -7164662361996540295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 787
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9bbf8515839cfb0800000000000000
+      internalID: -4627105220110075424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 788
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ae780df058aefc0800000000000000
+      internalID: -3464810660338603437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 779
+        width: 120
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef9267b6665f3880800000000000000
+      internalID: -8629083361855234077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_38
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 777
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07acd4ef97f0f8a0800000000000000
+      internalID: -6273242014815574261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 776
+        width: 114
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ac94a76bd318530800000000000000
+      internalID: 3855430609950853789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_40
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 776
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d0236081c5d73d0800000000000000
+      internalID: -3207306101365011172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_41
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 777
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494e5beffededd720800000000000000
+      internalID: 2872713752358544532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_42
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 777
+        width: 113
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925c579cd9f4014f0800000000000000
+      internalID: -860099989719366359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_43
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 791
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7819b229095f020d0800000000000000
+      internalID: -3449487313289375353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_44
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 795
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f704d8b19320e60800000000000000
+      internalID: 7926961084622208810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_45
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 814
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7349d53592a35ebb0800000000000000
+      internalID: -4907452269783575497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_46
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 783
+        width: 120
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0655ad5c5468ed50800000000000000
+      internalID: 6766768787995055629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_47
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 801
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e52659666964f0800000000000000
+      internalID: -835023653297593565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_48
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 802
+        width: 117
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c2358f08d78b2f0800000000000000
+      internalID: -956876927940744055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_49
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 824
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746b325ae96a2b0e0800000000000000
+      internalID: -2255557263053572537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_50
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 802
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc00a36a47ce75c0800000000000000
+      internalID: -4215713078859264777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_51
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 802
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5388681f96a2eb0800000000000000
+      internalID: -4743862771416287838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_52
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 789
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5a496cc51280110800000000000000
+      internalID: 1227267580810798555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_53
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 781
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf91f145936d845d0800000000000000
+      internalID: -3077974803594929669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_54
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 800
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44fcd864ca5ef50800000000000000
+      internalID: 6910118622296753332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_55
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 787
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df91eeaa5fafb670800000000000000
+      internalID: 8556750621043171287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_56
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 807
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47474381d800a95c0800000000000000
+      internalID: -4208050295827827596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_57
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 796
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ea833c279310d70800000000000000
+      internalID: 9007543894782029450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 783
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6571e6b3ee060a700800000000000000
+      internalID: 549545730854754134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_59
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 778
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76c22beef7f9d120800000000000000
+      internalID: 2439253347436512890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_60
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 782
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119c177591c71b6d0800000000000000
+      internalID: -2976461430432085743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_61
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 778
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70605b3ca8850b0800000000000000
+      internalID: -5739685151923369990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_62
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 786
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f30b8e5486d69360800000000000000
+      internalID: 7176158920271660021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_63
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 648
+        width: 109
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4426080c519f550800000000000000
+      internalID: 6195006678956655820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_64
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 649
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2be5fb5acab84c0800000000000000
+      internalID: -4284140792632659213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_65
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 648
+        width: 121
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acadaa8a78682e40800000000000000
+      internalID: 5631866209548741799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 649
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0873fb83f65629e0800000000000000
+      internalID: -1646533009732306931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_67
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 650
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc59f9e22da2651c0800000000000000
+      internalID: -4515374494178634289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_68
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 667
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3112a01a61082550800000000000000
+      internalID: 6136156047349518653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_69
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 672
+        width: 121
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a796b110ee82cbc0800000000000000
+      internalID: -3764289245507315805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_70
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 672
+        width: 119
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5251aacac1efcc570800000000000000
+      internalID: 8488438796795909413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_71
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 672
+        width: 117
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18704c6e9b0e63eb0800000000000000
+      internalID: -4740354468715690111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_72
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 729
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba807fec63218bf0800000000000000
+      internalID: -323938747413394767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_73
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 672
+        width: 115
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a069e341068b390800000000000000
+      internalID: -7802380714353751409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 665
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b66ca8b8a7dd730800000000000000
+      internalID: 4025508381686393733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 669
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f6b438cc48706b0800000000000000
+      internalID: -5330145620058738926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 671
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cd2976c53de08b0800000000000000
+      internalID: -5183973727228732326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_77
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 644
+        width: 120
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa303bc9b0103910800000000000000
+      internalID: 1814969039994239732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_78
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 649
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bedac15047b7410800000000000000
+      internalID: 1475900868198787939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_79
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 694
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12c01247125dbbe0800000000000000
+      internalID: -1459920444352052706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_80
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 675
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601b70057c1fe500800000000000000
+      internalID: 427591778468302956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_81
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 685
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282c2353d5c1b68f0800000000000000
+      internalID: -546311743145327998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_82
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 685
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bfbf3ba8eb60cf0800000000000000
+      internalID: -286332023357047963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_83
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 675
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c84ba5ec3614ff0800000000000000
+      internalID: -53651982615540625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_84
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 671
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b189f8a04b17abd0800000000000000
+      internalID: -2619094693765873229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_85
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 664
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afced37029c2e260800000000000000
+      internalID: 7125478701673664425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_86
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 654
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69064cabaee120670800000000000000
+      internalID: 8503393039933530262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_87
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 669
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39462aadb3cd7b40800000000000000
+      internalID: 5439719144304298302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_88
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 653
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a4476860bd63d20800000000000000
+      internalID: 3258032201521187366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_89
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 653
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8b52a288c1b3cb0800000000000000
+      internalID: -4883277999804925725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_90
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 652
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afdd1d426c54a390800000000000000
+      internalID: -7808014276683243614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_91
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 652
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b438783579e0c3d70800000000000000
+      internalID: 9024103796447871819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_92
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 520
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3248d4f946d6e8100800000000000000
+      internalID: 112147319667655715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_93
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 521
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9151d8c9beb1ff00800000000000000
+      internalID: 1148909085103575452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_94
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 520
+        width: 117
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aff9b75cb00e5f0800000000000000
+      internalID: -729570196823475648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_95
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 545
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4bc8e0352436610800000000000000
+      internalID: 1613206016022590664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_96
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 545
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fbf6b86edd8dd50800000000000000
+      internalID: 6762398822748372837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_97
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 543
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28efe55eaf824f2f0800000000000000
+      internalID: -940081364158447998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_98
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 543
+        width: 120
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f351779c0383f500800000000000000
+      internalID: 428830479633961971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_99
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 624
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ba9b4c136c6e10800000000000000
+      internalID: 2192236091801253066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_100
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 546
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f70f38043fb05c0800000000000000
+      internalID: -4248034365076897926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_101
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 545
+        width: 118
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc064b10d3bae3f0800000000000000
+      internalID: -870685871550624524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_102
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 606
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72f8c83581b3c020800000000000000
+      internalID: 2360925815413731964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_103
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 543
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d57d53b11534b8c0800000000000000
+      internalID: -3984501420176083499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_104
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 545
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07f6794215540e60800000000000000
+      internalID: 7927554781109221132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_105
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 520
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0580743869c017de0800000000000000
+      internalID: -1337273773765228464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_106
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 521
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9dda0d876ad69d0800000000000000
+      internalID: -2779382357190387244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_107
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 521
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898870e14269206c0800000000000000
+      internalID: -4178612422379599720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_108
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 591
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dc9eca6b08731b0800000000000000
+      internalID: -5676927283203814035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_109
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 540
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc3397ca13f6d850800000000000000
+      internalID: 6401571216696753346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_110
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 584
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a12d04eebb2ad0800000000000000
+      internalID: -2725875262760573295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_111
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 561
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1177a4f815a81b2a0800000000000000
+      internalID: -6723440685786433775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_112
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 571
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f10afc7aa99f750800000000000000
+      internalID: 6339267996034277127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_113
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 546
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d886ff944af8da30800000000000000
+      internalID: 4240414221817776343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_114
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 552
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbe25040eaf3b3a0800000000000000
+      internalID: -6650696383637296143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_115
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 547
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102a56bd5f6bc3f00800000000000000
+      internalID: 1097953576235672065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_116
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 556
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e297c99425f41b0800000000000000
+      internalID: -5670222929724887539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_117
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 552
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6baa5ebfbbc73a0800000000000000
+      internalID: -6666246657850820916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_118
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 535
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e46a1d28bc08a70800000000000000
+      internalID: 8827279032369696397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_119
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 542
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c868742bc9d3070800000000000000
+      internalID: 8087792795345390637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_120
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 541
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86372aaf49270690800000000000000
+      internalID: -7636089221049534836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_121
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 542
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faedf61a1d5e6f0a0800000000000000
+      internalID: -6848033494850871633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_122
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 536
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfc3b72044c40f10800000000000000
+      internalID: 2235127094905655217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_123
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 522
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb573d43d14eb0b0800000000000000
+      internalID: -5711054901669831731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_124
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 531
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c55ddb5f60478ff0800000000000000
+      internalID: -33987625155209786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_125
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 525
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bb01a881675d110800000000000000
+      internalID: 1285063116451789677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_126
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 524
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b40185ecf094f0800000000000000
+      internalID: -823880669166520245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_127
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 421
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa72aa48cc860690800000000000000
+      internalID: -7636261326286587152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_128
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 422
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4756e3ad3b3a50800000000000000
+      internalID: 6501858261192887632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_129
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 424
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed069ac51af2084e0800000000000000
+      internalID: -1981531465952173858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_130
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 392
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7749c8a222279a250800000000000000
+      internalID: 5956417473242502263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_131
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 393
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179442123a0603100800000000000000
+      internalID: 85674646672001393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_132
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 393
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95326f11ee2a9d960800000000000000
+      internalID: 7627306587315905369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_133
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 395
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25b2892a8f08f270800000000000000
+      internalID: 8284388600624362797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_134
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a8bb328afb4f5a0800000000000000
+      internalID: -6488350434259138029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_135
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 401
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3e2ec6df7b380f0800000000000000
+      internalID: -1115845983576333313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_136
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 449
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc685a720a17bcbc0800000000000000
+      internalID: -3761788131064052020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_137
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 407
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3605ed840365297d0800000000000000
+      internalID: -2913171243574341533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_138
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 455
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41edd9c8043d9d250800000000000000
+      internalID: 5970035055246827028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_139
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 453
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5110626b18fd8b140800000000000000
+      internalID: 4735780756379795733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_140
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 444
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbd3f634f8060900800000000000000
+      internalID: 650217041188608954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_141
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 422
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9828ca9696a2baab0800000000000000
+      internalID: -4995852729404587383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_142
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 406
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a5e825dbc8a76c0800000000000000
+      internalID: -4144845762279351712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_143
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 396
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f99df575d338760800000000000000
+      internalID: 7458872853335220072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_144
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 417
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ad0303bc02827d0800000000000000
+      internalID: -2943066299427661165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_145
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 416
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c38e7c7a5fd44d0800000000000000
+      internalID: -3148590463499879392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_146
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 442
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a665a40b1157cd0800000000000000
+      internalID: -2561121364231165405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_147
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 426
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c962197da70f7ffa0800000000000000
+      internalID: -5766876387431340388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_148
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 435
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5491524ea492b30f0800000000000000
+      internalID: -1136269079348963003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_149
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 429
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5563d5e1b27f070800000000000000
+      internalID: 8140022260908316135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_150
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 428
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16030e719a2b77480800000000000000
+      internalID: -8901449699154710431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_151
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 414
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419acfa8c29256460800000000000000
+      internalID: 7234233647727683860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_152
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 414
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7126fd3d154bf6860800000000000000
+      internalID: 7525431765899371031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_153
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 402
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d46419faef77940800000000000000
+      internalID: 5293979917007342872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_154
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 297
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612b755eb6cf1b490800000000000000
+      internalID: -7732121544879001066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_155
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 296
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efed9d80562925b0800000000000000
+      internalID: -5392736951384281118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_156
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 294
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5611098a7a461010800000000000000
+      internalID: 1159195844239496795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_157
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 265
+        width: 122
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc1ffbeb45524820800000000000000
+      internalID: 2900974894550293757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_158
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 266
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59803d758b6c2040800000000000000
+      internalID: 4624189138477812063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_159
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 266
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8baadc83953e480800000000000000
+      internalID: -8871148740486186786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_160
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 269
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ea10b1b43e74b0800000000000000
+      internalID: -5440853362048573046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_161
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 274
+        width: 113
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5c150babda39010800000000000000
+      internalID: 1194489343516984824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_162
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 292
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e317b2e2b45d780800000000000000
+      internalID: -8658932046880489908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_163
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 276
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597511b5672c25250800000000000000
+      internalID: 5932017472790157205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_164
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 335
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec5d1caa278b2550800000000000000
+      internalID: 6137147534568414440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_165
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 331
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdde3d2fd45c9bea0800000000000000
+      internalID: -5856432901841490469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_166
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 313
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f4f9f5817f2f930800000000000000
+      internalID: 4175671488581422901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_167
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 289
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c94a0172a98d3770800000000000000
+      internalID: 8592174994866981320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_168
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 261
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6785df0b08aa940800000000000000
+      internalID: 5308196608462583459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_169
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 268
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eea967c4d43d7770800000000000000
+      internalID: 8610096151085559526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_170
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 282
+        width: 112
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abbc662d490f4220800000000000000
+      internalID: 2472204947411483552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_171
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 344
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4402fda6202cd9540800000000000000
+      internalID: 5016378875599331396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_172
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 289
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e403991e81f0c70800000000000000
+      internalID: 8939391142570511966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_173
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 322
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db87b0a83f63ab0800000000000000
+      internalID: -5028564159689081536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_174
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 336
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0340cd2fe292edb80800000000000000
+      internalID: -8368205775988063184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_175
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 320
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010e78d04c48c71f0800000000000000
+      internalID: -1045815035881332720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_176
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 299
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e312b79bdd3985ac0800000000000000
+      internalID: -3866177699588660930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_177
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 305
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b0730535cbfb40800000000000000
+      internalID: 5475186603480627003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_178
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1c79e0f6076fc20800000000000000
+      internalID: 3239900604228157909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_179
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 311
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e062e00588bdda80800000000000000
+      internalID: -8440387245237444376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_180
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 309
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4458cf866a285d6f0800000000000000
+      internalID: -660478119102347964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_181
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c67aafda1b9d30e0800000000000000
+      internalID: -2288502495910398272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_182
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 162
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e9ec1ece57ad320800000000000000
+      internalID: 2583506996511546917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_183
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 162
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3433de56cd771b3d0800000000000000
+      internalID: -3192638872342416573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_184
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 158
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db56b794ef189f840800000000000000
+      internalID: 5258376969086264765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_185
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 146
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081e3fb0c825eb30800000000000000
+      internalID: 4315900626211837955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_186
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 134
+        width: 120
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6d5b5e56a67b0a0800000000000000
+      internalID: -6865902121024891198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_187
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 153
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4665268173aedb970800000000000000
+      internalID: 8772425171540792932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_188
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 157
+        width: 120
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebe8b251729ab560800000000000000
+      internalID: 7330332358915714016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_189
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 152
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78e0fbdf3337a8a0800000000000000
+      internalID: -6294005604861024132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_190
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 153
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cb2d14133dc2460800000000000000
+      internalID: 7218376511279250452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_191
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 158
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef41cf56f45524c0800000000000000
+      internalID: -4312947650992189467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_192
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 211
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0a49def0b06d7b0800000000000000
+      internalID: -5199956556714303267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_193
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 207
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffe54267510e3c70800000000000000
+      internalID: 8952594584081657855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_194
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 203
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8694e5bd3c93690800000000000000
+      internalID: -7621845547400730385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_195
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 177
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5943d28727ddaa400800000000000000
+      internalID: 336324605904762005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_196
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 153
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89efd594bac9e1d0800000000000000
+      internalID: -3320900373251626613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_197
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 139
+        width: 121
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3563355bfb25160800000000000000
+      internalID: 7012878355275338724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_198
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 160
+        width: 119
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427d738826d76afa0800000000000000
+      internalID: -5789802408792565980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_199
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 152
+        width: 116
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e467d05cada49a0800000000000000
+      internalID: -6247940993153872349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_200
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 159
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d663e92f852e8ed0800000000000000
+      internalID: -2409947453783316775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_201
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 181
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3c45648714b00f0800000000000000
+      internalID: -1149753295031188552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_202
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 197
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4218bf927bbc843b0800000000000000
+      internalID: -5527944555053481692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_203
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 191
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0191fea0711c7170800000000000000
+      internalID: 8177430199067054349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_204
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 172
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13f23c3976b5aa80800000000000000
+      internalID: -8456152093500968166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_205
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 184
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64634a6ed5b2531d0800000000000000
+      internalID: -3371741063715473850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_206
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 185
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e7554bea9430fd0800000000000000
+      internalID: -2376975163622850925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_207
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 156
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0548bf763932318d0800000000000000
+      internalID: -2876916620947913648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_208
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 159
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d8c3145e30a7630800000000000000
+      internalID: 3925454308383690120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_209
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 161
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99161a594ce512e90800000000000000
+      internalID: -7052251343068503655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_210
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0002a7ff7f1e226a0800000000000000
+      internalID: -6475364858945986560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_211
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 31
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74c8b38c9dd968e0800000000000000
+      internalID: -1699583720061090693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_212
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b291acbecf4a2f0800000000000000
+      internalID: -962366330712282330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_213
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 121
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa466553da7c22880800000000000000
+      internalID: -8637121588605066070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_214
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 7
+        width: 120
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bf5d07c7609b370800000000000000
+      internalID: 8338703316591967053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_215
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 14
+        width: 113
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dbb391e2e01cea0800000000000000
+      internalID: -5854382449450304236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_216
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 15
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dc0836e25181cd0800000000000000
+      internalID: -2587294696942285475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_217
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 14
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520dc0cc808d15980800000000000000
+      internalID: -8551816685105131483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_218
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 23
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0839e3b24c2c2300800000000000000
+      internalID: 228606346086922253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_219
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 87
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7a8f3fb708d6bc0800000000000000
+      internalID: -3788230441686227011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_220
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4162c6c085646c990800000000000000
+      internalID: -7366122796538386924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_221
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 28
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420ed9365f7653b40800000000000000
+      internalID: 5419352030246199332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_222
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 34
+        width: 119
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74eaf70d1afb71a0800000000000000
+      internalID: -6810575008872864641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_223
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 34
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2720d0c0382a3ae0800000000000000
+      internalID: -1568897330326788306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_224
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 44
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134b98406eb67a100800000000000000
+      internalID: 119182550811391025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_225
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 35
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97800b9978d11e180800000000000000
+      internalID: -9087950104820709255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_226
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 52
+        width: 119
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce1ce2af45faf690800000000000000
+      internalID: -7567466501458092347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_227
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 19
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9a44477af5173b0800000000000000
+      internalID: -5516522895737312769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_228
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 25
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a43d5d70159d6ac0800000000000000
+      internalID: -3860265407531371352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_229
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cf17e9b999f0e60800000000000000
+      internalID: 7930726362479983760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_230
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 73
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bc4e2f0509d96d0800000000000000
+      internalID: -2982068700902536442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_231
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fc508c694e08c20800000000000000
+      internalID: 3206814270939844393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_232
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 60
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda98a967d5363ff0800000000000000
+      internalID: -56798745988654370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_233
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 61
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8d178f6fa9a34e0800000000000000
+      internalID: -2001116698891921164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_234
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 54
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddefb62c20a01a40800000000000000
+      internalID: 5336941669923155410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_235
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08558f74265c1d80800000000000000
+      internalID: -8278647300255557617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_236
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 43
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16145d517cf6ee550800000000000000
+      internalID: 6192009438536483169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_237
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 53
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e5e392c168449c0800000000000000
+      internalID: -3943879918160552431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_238
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 36
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ba72dac3e1568e0800000000000000
+      internalID: -1700920038310565109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_239
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 37
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bb65ccc6d50d5e0800000000000000
+      internalID: -1886905522002150653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_240
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 16
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e5b35a89b8053c0800000000000000
+      internalID: -4372841750453330375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuickShot_241
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 27
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fca3c045543a910800000000000000
+      internalID: 1847396499436785438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      QuickShot_0: 4663422758827269091
+      QuickShot_1: 5937436321594734279
+      QuickShot_10: -5886783027154925350
+      QuickShot_100: -4248034365076897926
+      QuickShot_101: -870685871550624524
+      QuickShot_102: 2360925815413731964
+      QuickShot_103: -3984501420176083499
+      QuickShot_104: 7927554781109221132
+      QuickShot_105: -1337273773765228464
+      QuickShot_106: -2779382357190387244
+      QuickShot_107: -4178612422379599720
+      QuickShot_108: -5676927283203814035
+      QuickShot_109: 6401571216696753346
+      QuickShot_11: -8037448172941608620
+      QuickShot_110: -2725875262760573295
+      QuickShot_111: -6723440685786433775
+      QuickShot_112: 6339267996034277127
+      QuickShot_113: 4240414221817776343
+      QuickShot_114: -6650696383637296143
+      QuickShot_115: 1097953576235672065
+      QuickShot_116: -5670222929724887539
+      QuickShot_117: -6666246657850820916
+      QuickShot_118: 8827279032369696397
+      QuickShot_119: 8087792795345390637
+      QuickShot_12: 2399899290402242031
+      QuickShot_120: -7636089221049534836
+      QuickShot_121: -6848033494850871633
+      QuickShot_122: 2235127094905655217
+      QuickShot_123: -5711054901669831731
+      QuickShot_124: -33987625155209786
+      QuickShot_125: 1285063116451789677
+      QuickShot_126: -823880669166520245
+      QuickShot_127: -7636261326286587152
+      QuickShot_128: 6501858261192887632
+      QuickShot_129: -1981531465952173858
+      QuickShot_13: -821086200321038930
+      QuickShot_130: 5956417473242502263
+      QuickShot_131: 85674646672001393
+      QuickShot_132: 7627306587315905369
+      QuickShot_133: 8284388600624362797
+      QuickShot_134: -6488350434259138029
+      QuickShot_135: -1115845983576333313
+      QuickShot_136: -3761788131064052020
+      QuickShot_137: -2913171243574341533
+      QuickShot_138: 5970035055246827028
+      QuickShot_139: 4735780756379795733
+      QuickShot_14: -6392717461532596683
+      QuickShot_140: 650217041188608954
+      QuickShot_141: -4995852729404587383
+      QuickShot_142: -4144845762279351712
+      QuickShot_143: 7458872853335220072
+      QuickShot_144: -2943066299427661165
+      QuickShot_145: -3148590463499879392
+      QuickShot_146: -2561121364231165405
+      QuickShot_147: -5766876387431340388
+      QuickShot_148: -1136269079348963003
+      QuickShot_149: 8140022260908316135
+      QuickShot_15: -4091626756359451178
+      QuickShot_150: -8901449699154710431
+      QuickShot_151: 7234233647727683860
+      QuickShot_152: 7525431765899371031
+      QuickShot_153: 5293979917007342872
+      QuickShot_154: -7732121544879001066
+      QuickShot_155: -5392736951384281118
+      QuickShot_156: 1159195844239496795
+      QuickShot_157: 2900974894550293757
+      QuickShot_158: 4624189138477812063
+      QuickShot_159: -8871148740486186786
+      QuickShot_16: 7544387700751135698
+      QuickShot_160: -5440853362048573046
+      QuickShot_161: 1194489343516984824
+      QuickShot_162: -8658932046880489908
+      QuickShot_163: 5932017472790157205
+      QuickShot_164: 6137147534568414440
+      QuickShot_165: -5856432901841490469
+      QuickShot_166: 4175671488581422901
+      QuickShot_167: 8592174994866981320
+      QuickShot_168: 5308196608462583459
+      QuickShot_169: 8610096151085559526
+      QuickShot_17: 3422709768975858728
+      QuickShot_170: 2472204947411483552
+      QuickShot_171: 5016378875599331396
+      QuickShot_172: 8939391142570511966
+      QuickShot_173: -5028564159689081536
+      QuickShot_174: -8368205775988063184
+      QuickShot_175: -1045815035881332720
+      QuickShot_176: -3866177699588660930
+      QuickShot_177: 5475186603480627003
+      QuickShot_178: 3239900604228157909
+      QuickShot_179: -8440387245237444376
+      QuickShot_18: -2679126599810128368
+      QuickShot_180: -660478119102347964
+      QuickShot_181: -2288502495910398272
+      QuickShot_182: 2583506996511546917
+      QuickShot_183: -3192638872342416573
+      QuickShot_184: 5258376969086264765
+      QuickShot_185: 4315900626211837955
+      QuickShot_186: -6865902121024891198
+      QuickShot_187: 8772425171540792932
+      QuickShot_188: 7330332358915714016
+      QuickShot_189: -6294005604861024132
+      QuickShot_19: -5859189564572199201
+      QuickShot_190: 7218376511279250452
+      QuickShot_191: -4312947650992189467
+      QuickShot_192: -5199956556714303267
+      QuickShot_193: 8952594584081657855
+      QuickShot_194: -7621845547400730385
+      QuickShot_195: 336324605904762005
+      QuickShot_196: -3320900373251626613
+      QuickShot_197: 7012878355275338724
+      QuickShot_198: -5789802408792565980
+      QuickShot_199: -6247940993153872349
+      QuickShot_2: -7639424048802406080
+      QuickShot_20: -3076885296310698543
+      QuickShot_200: -2409947453783316775
+      QuickShot_201: -1149753295031188552
+      QuickShot_202: -5527944555053481692
+      QuickShot_203: 8177430199067054349
+      QuickShot_204: -8456152093500968166
+      QuickShot_205: -3371741063715473850
+      QuickShot_206: -2376975163622850925
+      QuickShot_207: -2876916620947913648
+      QuickShot_208: 3925454308383690120
+      QuickShot_209: -7052251343068503655
+      QuickShot_21: -3187269763358361590
+      QuickShot_210: -6475364858945986560
+      QuickShot_211: -1699583720061090693
+      QuickShot_212: -962366330712282330
+      QuickShot_213: -8637121588605066070
+      QuickShot_214: 8338703316591967053
+      QuickShot_215: -5854382449450304236
+      QuickShot_216: -2587294696942285475
+      QuickShot_217: -8551816685105131483
+      QuickShot_218: 228606346086922253
+      QuickShot_219: -3788230441686227011
+      QuickShot_22: 5510800508543324631
+      QuickShot_220: -7366122796538386924
+      QuickShot_221: 5419352030246199332
+      QuickShot_222: -6810575008872864641
+      QuickShot_223: -1568897330326788306
+      QuickShot_224: 119182550811391025
+      QuickShot_225: -9087950104820709255
+      QuickShot_226: -7567466501458092347
+      QuickShot_227: -5516522895737312769
+      QuickShot_228: -3860265407531371352
+      QuickShot_229: 7930726362479983760
+      QuickShot_23: 6594420441620476096
+      QuickShot_230: -2982068700902536442
+      QuickShot_231: 3206814270939844393
+      QuickShot_232: -56798745988654370
+      QuickShot_233: -2001116698891921164
+      QuickShot_234: 5336941669923155410
+      QuickShot_235: -8278647300255557617
+      QuickShot_236: 6192009438536483169
+      QuickShot_237: -3943879918160552431
+      QuickShot_238: -1700920038310565109
+      QuickShot_239: -1886905522002150653
+      QuickShot_24: -140299765590664215
+      QuickShot_240: -4372841750453330375
+      QuickShot_241: 1847396499436785438
+      QuickShot_25: 522313897170766498
+      QuickShot_26: 527045307321829525
+      QuickShot_27: 7008276929162477134
+      QuickShot_28: 8029957404840500506
+      QuickShot_29: -9094456816502879142
+      QuickShot_3: -2113786990606905839
+      QuickShot_30: 967720979432044679
+      QuickShot_31: -1631630327931929440
+      QuickShot_32: -6587533784544558496
+      QuickShot_33: 6693798415843932148
+      QuickShot_34: -7164662361996540295
+      QuickShot_35: -4627105220110075424
+      QuickShot_36: -3464810660338603437
+      QuickShot_37: -8629083361855234077
+      QuickShot_38: -6273242014815574261
+      QuickShot_39: 3855430609950853789
+      QuickShot_4: 7152573530155021966
+      QuickShot_40: -3207306101365011172
+      QuickShot_41: 2872713752358544532
+      QuickShot_42: -860099989719366359
+      QuickShot_43: -3449487313289375353
+      QuickShot_44: 7926961084622208810
+      QuickShot_45: -4907452269783575497
+      QuickShot_46: 6766768787995055629
+      QuickShot_47: -835023653297593565
+      QuickShot_48: -956876927940744055
+      QuickShot_49: -2255557263053572537
+      QuickShot_5: 4882954507433036670
+      QuickShot_50: -4215713078859264777
+      QuickShot_51: -4743862771416287838
+      QuickShot_52: 1227267580810798555
+      QuickShot_53: -3077974803594929669
+      QuickShot_54: 6910118622296753332
+      QuickShot_55: 8556750621043171287
+      QuickShot_56: -4208050295827827596
+      QuickShot_57: 9007543894782029450
+      QuickShot_58: 549545730854754134
+      QuickShot_59: 2439253347436512890
+      QuickShot_6: -494903718755200022
+      QuickShot_60: -2976461430432085743
+      QuickShot_61: -5739685151923369990
+      QuickShot_62: 7176158920271660021
+      QuickShot_63: 6195006678956655820
+      QuickShot_64: -4284140792632659213
+      QuickShot_65: 5631866209548741799
+      QuickShot_66: -1646533009732306931
+      QuickShot_67: -4515374494178634289
+      QuickShot_68: 6136156047349518653
+      QuickShot_69: -3764289245507315805
+      QuickShot_7: -5360484405902875911
+      QuickShot_70: 8488438796795909413
+      QuickShot_71: -4740354468715690111
+      QuickShot_72: -323938747413394767
+      QuickShot_73: -7802380714353751409
+      QuickShot_74: 4025508381686393733
+      QuickShot_75: -5330145620058738926
+      QuickShot_76: -5183973727228732326
+      QuickShot_77: 1814969039994239732
+      QuickShot_78: 1475900868198787939
+      QuickShot_79: -1459920444352052706
+      QuickShot_8: 306954781050006547
+      QuickShot_80: 427591778468302956
+      QuickShot_81: -546311743145327998
+      QuickShot_82: -286332023357047963
+      QuickShot_83: -53651982615540625
+      QuickShot_84: -2619094693765873229
+      QuickShot_85: 7125478701673664425
+      QuickShot_86: 8503393039933530262
+      QuickShot_87: 5439719144304298302
+      QuickShot_88: 3258032201521187366
+      QuickShot_89: -4883277999804925725
+      QuickShot_9: -4543049198717773049
+      QuickShot_90: -7808014276683243614
+      QuickShot_91: 9024103796447871819
+      QuickShot_92: 112147319667655715
+      QuickShot_93: 1148909085103575452
+      QuickShot_94: -729570196823475648
+      QuickShot_95: 1613206016022590664
+      QuickShot_96: 6762398822748372837
+      QuickShot_97: -940081364158447998
+      QuickShot_98: 428830479633961971
+      QuickShot_99: 2192236091801253066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
