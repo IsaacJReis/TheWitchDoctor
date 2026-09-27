@@ -29,5 +29,11 @@ Ao clicar em Battle, o Playerserá direcionado a uma boss fight simples, apenas 
 Cena Battle:
 <img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/2492b8a7-f475-4c81-bccf-221f7d7b360b" />
 
+No canto superior ainda mantem o botão que re direciona ao menu principal.
+
+Para as animações foi utilizado no mapa de estado o bleend tree, onde eu conseguia coloca mais de uma animação em apenas um estado e defir parametros para que cada uma seja chamada e alterada.
+
+Mapa de Estado do Player:
+
 
 
