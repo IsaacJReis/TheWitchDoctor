@@ -44,6 +44,7 @@ Estados de Ataque:
 
 
 Estados de Movimentações:
+<img width="930" height="235" alt="Image" src="https://github.com/user-attachments/assets/9161a345-753a-488d-9463-34a8899a84f4" />
 
 
 
