@@ -16,8 +16,7 @@ codigos feitos pelo VS Code (Visual Studio Code)
 
 Controles:
 
-<img width="780" height="576" alt="Image" src="https://github.com/user-attachments/assets/fc7b326e-0a3b-4ac4-8c02-ae0458f079e6" />
-
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/fc7b326e-0a3b-4ac4-8c02-ae0458f079e6" />
 
 
 
