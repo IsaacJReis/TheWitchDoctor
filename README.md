@@ -17,16 +17,25 @@ codigos feitos pelo VS Code (Visual Studio Code)
 Controles: 
 
 Andar: W/A/S/D
+
 Correr: W/A/S/D + Shift
+
 Agachar: C
+
 Esquiva: Ctrl + W/A/S/D
 
 Ataque: Botão esquerdo do Mouse
+
 Ataque correndo: Botão esquerdo do Mouse + W/A/S/D
+
 Special 1: 1
+
 Special 2: 2
+
 CastSpell: 3
+
 Kick: 4
+
 Pummel: 5
 
 
