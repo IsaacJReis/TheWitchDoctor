@@ -14,29 +14,11 @@ versão da unity : 6.6 (6000.6.0f1)
 
 codigos feitos pelo VS Code (Visual Studio Code) 
 
-Controles: 
+Controles:
 
-Andar: W/A/S/D
+<img width="780" height="576" alt="Image" src="https://github.com/user-attachments/assets/fc7b326e-0a3b-4ac4-8c02-ae0458f079e6" />
 
-Correr: W/A/S/D + Shift
 
-Agachar: C
-
-Esquiva: Ctrl + W/A/S/D
-
-Ataque: Botão esquerdo do Mouse
-
-Ataque correndo: Botão esquerdo do Mouse + W/A/S/D
-
-Special 1: 1
-
-Special 2: 2
-
-CastSpell: 3
-
-Kick: 4
-
-Pummel: 5
 
 
 
