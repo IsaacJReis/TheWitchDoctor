@@ -14,7 +14,7 @@ versão da unity : 6.6 (6000.6.0f1)
 
 codigos feitos pelo VS Code (Visual Studio Code) 
 
-#Controles:#
+Controles:
 
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/fc7b326e-0a3b-4ac4-8c02-ae0458f079e6" />
 
