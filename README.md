@@ -14,7 +14,8 @@ versão da unity : 6.6 (6000.6.0f1)
 
 codigos feitos pelo VS Code (Visual Studio Code) 
 
-Controles:
+#Controles:#
+
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/fc7b326e-0a3b-4ac4-8c02-ae0458f079e6" />
 
 
@@ -27,6 +28,7 @@ Tela inicial do jogo. com duas opções, Tranning e Battle:
 Ao clicar no Tranning o player será levado para uma cena aonde será mostrado para ele todos os comando:
 
 Cena Traning:
+
 <img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/05852f8a-90bf-45ef-897f-60d0ddaef062" />
 
 No canto superior esquerdo tem um botão escrito Back e ao apertar o player será re direcionado a tela inicial!
@@ -34,6 +36,7 @@ No canto superior esquerdo tem um botão escrito Back e ao apertar o player ser�
 Ao clicar em Battle, o Playerserá direcionado a uma boss fight simples, apenas para ele coloca os ataques em pratica e ter uma condição de morrer para puxar a animação Die!
 
 Cena Battle:
+
 <img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/2492b8a7-f475-4c81-bccf-221f7d7b360b" />
 
 No canto superior ainda mantem o botão que re direciona ao menu principal.
